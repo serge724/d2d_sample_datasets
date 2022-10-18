@@ -1,0 +1,1501 @@
+file_name,file_path,label,split
+train_0.pdf,rvl_cdip_sample/train_0.pdf,invoice,train
+train_1.pdf,rvl_cdip_sample/train_1.pdf,scientific report,train
+train_2.pdf,rvl_cdip_sample/train_2.pdf,budget,train
+train_3.pdf,rvl_cdip_sample/train_3.pdf,news article,train
+train_4.pdf,rvl_cdip_sample/train_4.pdf,scientific publication,train
+train_5.pdf,rvl_cdip_sample/train_5.pdf,handwritten,train
+train_6.pdf,rvl_cdip_sample/train_6.pdf,scientific publication,train
+train_7.pdf,rvl_cdip_sample/train_7.pdf,advertisement,train
+train_8.pdf,rvl_cdip_sample/train_8.pdf,news article,train
+train_9.pdf,rvl_cdip_sample/train_9.pdf,presentation,train
+train_10.pdf,rvl_cdip_sample/train_10.pdf,scientific report,train
+train_11.pdf,rvl_cdip_sample/train_11.pdf,form,train
+train_12.pdf,rvl_cdip_sample/train_12.pdf,invoice,train
+train_13.pdf,rvl_cdip_sample/train_13.pdf,scientific publication,train
+train_14.pdf,rvl_cdip_sample/train_14.pdf,questionnaire,train
+train_15.pdf,rvl_cdip_sample/train_15.pdf,questionnaire,train
+train_16.pdf,rvl_cdip_sample/train_16.pdf,scientific publication,train
+train_17.pdf,rvl_cdip_sample/train_17.pdf,scientific report,train
+train_18.pdf,rvl_cdip_sample/train_18.pdf,questionnaire,train
+train_19.pdf,rvl_cdip_sample/train_19.pdf,specification,train
+train_20.pdf,rvl_cdip_sample/train_20.pdf,memo,train
+train_21.pdf,rvl_cdip_sample/train_21.pdf,specification,train
+train_22.pdf,rvl_cdip_sample/train_22.pdf,news article,train
+train_23.pdf,rvl_cdip_sample/train_23.pdf,specification,train
+train_24.pdf,rvl_cdip_sample/train_24.pdf,budget,train
+train_25.pdf,rvl_cdip_sample/train_25.pdf,invoice,train
+train_26.pdf,rvl_cdip_sample/train_26.pdf,scientific publication,train
+train_27.pdf,rvl_cdip_sample/train_27.pdf,news article,train
+train_28.pdf,rvl_cdip_sample/train_28.pdf,memo,train
+train_29.pdf,rvl_cdip_sample/train_29.pdf,invoice,train
+train_30.pdf,rvl_cdip_sample/train_30.pdf,form,train
+train_31.pdf,rvl_cdip_sample/train_31.pdf,invoice,train
+train_32.pdf,rvl_cdip_sample/train_32.pdf,form,train
+train_33.pdf,rvl_cdip_sample/train_33.pdf,handwritten,train
+train_34.pdf,rvl_cdip_sample/train_34.pdf,specification,train
+train_35.pdf,rvl_cdip_sample/train_35.pdf,questionnaire,train
+train_36.pdf,rvl_cdip_sample/train_36.pdf,budget,train
+train_37.pdf,rvl_cdip_sample/train_37.pdf,presentation,train
+train_38.pdf,rvl_cdip_sample/train_38.pdf,questionnaire,train
+train_39.pdf,rvl_cdip_sample/train_39.pdf,letter,train
+train_40.pdf,rvl_cdip_sample/train_40.pdf,invoice,train
+train_41.pdf,rvl_cdip_sample/train_41.pdf,handwritten,train
+train_42.pdf,rvl_cdip_sample/train_42.pdf,email,train
+train_43.pdf,rvl_cdip_sample/train_43.pdf,scientific report,train
+train_44.pdf,rvl_cdip_sample/train_44.pdf,advertisement,train
+train_45.pdf,rvl_cdip_sample/train_45.pdf,scientific publication,train
+train_46.pdf,rvl_cdip_sample/train_46.pdf,email,train
+train_47.pdf,rvl_cdip_sample/train_47.pdf,memo,train
+train_48.pdf,rvl_cdip_sample/train_48.pdf,handwritten,train
+train_49.pdf,rvl_cdip_sample/train_49.pdf,handwritten,train
+train_50.pdf,rvl_cdip_sample/train_50.pdf,scientific publication,train
+train_51.pdf,rvl_cdip_sample/train_51.pdf,resume,train
+train_52.pdf,rvl_cdip_sample/train_52.pdf,advertisement,train
+train_53.pdf,rvl_cdip_sample/train_53.pdf,budget,train
+train_54.pdf,rvl_cdip_sample/train_54.pdf,advertisement,train
+train_55.pdf,rvl_cdip_sample/train_55.pdf,questionnaire,train
+train_56.pdf,rvl_cdip_sample/train_56.pdf,memo,train
+train_57.pdf,rvl_cdip_sample/train_57.pdf,invoice,train
+train_58.pdf,rvl_cdip_sample/train_58.pdf,form,train
+train_59.pdf,rvl_cdip_sample/train_59.pdf,questionnaire,train
+train_60.pdf,rvl_cdip_sample/train_60.pdf,news article,train
+train_61.pdf,rvl_cdip_sample/train_61.pdf,scientific publication,train
+train_62.pdf,rvl_cdip_sample/train_62.pdf,advertisement,train
+train_63.pdf,rvl_cdip_sample/train_63.pdf,file folder,train
+train_64.pdf,rvl_cdip_sample/train_64.pdf,form,train
+train_65.pdf,rvl_cdip_sample/train_65.pdf,budget,train
+train_66.pdf,rvl_cdip_sample/train_66.pdf,invoice,train
+train_67.pdf,rvl_cdip_sample/train_67.pdf,specification,train
+train_68.pdf,rvl_cdip_sample/train_68.pdf,questionnaire,train
+train_69.pdf,rvl_cdip_sample/train_69.pdf,scientific report,train
+train_70.pdf,rvl_cdip_sample/train_70.pdf,resume,train
+train_71.pdf,rvl_cdip_sample/train_71.pdf,questionnaire,train
+train_72.pdf,rvl_cdip_sample/train_72.pdf,resume,train
+train_73.pdf,rvl_cdip_sample/train_73.pdf,presentation,train
+train_74.pdf,rvl_cdip_sample/train_74.pdf,questionnaire,train
+train_75.pdf,rvl_cdip_sample/train_75.pdf,presentation,train
+train_76.pdf,rvl_cdip_sample/train_76.pdf,email,train
+train_77.pdf,rvl_cdip_sample/train_77.pdf,news article,train
+train_78.pdf,rvl_cdip_sample/train_78.pdf,news article,train
+train_79.pdf,rvl_cdip_sample/train_79.pdf,email,train
+train_80.pdf,rvl_cdip_sample/train_80.pdf,resume,train
+train_81.pdf,rvl_cdip_sample/train_81.pdf,scientific report,train
+train_82.pdf,rvl_cdip_sample/train_82.pdf,specification,train
+train_83.pdf,rvl_cdip_sample/train_83.pdf,invoice,train
+train_84.pdf,rvl_cdip_sample/train_84.pdf,invoice,train
+train_85.pdf,rvl_cdip_sample/train_85.pdf,advertisement,train
+train_86.pdf,rvl_cdip_sample/train_86.pdf,questionnaire,train
+train_87.pdf,rvl_cdip_sample/train_87.pdf,budget,train
+train_88.pdf,rvl_cdip_sample/train_88.pdf,resume,train
+train_89.pdf,rvl_cdip_sample/train_89.pdf,scientific publication,train
+train_90.pdf,rvl_cdip_sample/train_90.pdf,letter,train
+train_91.pdf,rvl_cdip_sample/train_91.pdf,resume,train
+train_92.pdf,rvl_cdip_sample/train_92.pdf,scientific report,train
+train_93.pdf,rvl_cdip_sample/train_93.pdf,invoice,train
+train_94.pdf,rvl_cdip_sample/train_94.pdf,scientific publication,train
+train_95.pdf,rvl_cdip_sample/train_95.pdf,letter,train
+train_96.pdf,rvl_cdip_sample/train_96.pdf,specification,train
+train_97.pdf,rvl_cdip_sample/train_97.pdf,resume,train
+train_98.pdf,rvl_cdip_sample/train_98.pdf,scientific report,train
+train_99.pdf,rvl_cdip_sample/train_99.pdf,file folder,train
+train_100.pdf,rvl_cdip_sample/train_100.pdf,scientific report,train
+train_101.pdf,rvl_cdip_sample/train_101.pdf,resume,train
+train_102.pdf,rvl_cdip_sample/train_102.pdf,questionnaire,train
+train_103.pdf,rvl_cdip_sample/train_103.pdf,memo,train
+train_104.pdf,rvl_cdip_sample/train_104.pdf,memo,train
+train_105.pdf,rvl_cdip_sample/train_105.pdf,memo,train
+train_106.pdf,rvl_cdip_sample/train_106.pdf,news article,train
+train_107.pdf,rvl_cdip_sample/train_107.pdf,file folder,train
+train_108.pdf,rvl_cdip_sample/train_108.pdf,presentation,train
+train_109.pdf,rvl_cdip_sample/train_109.pdf,resume,train
+train_110.pdf,rvl_cdip_sample/train_110.pdf,news article,train
+train_111.pdf,rvl_cdip_sample/train_111.pdf,email,train
+train_112.pdf,rvl_cdip_sample/train_112.pdf,form,train
+train_113.pdf,rvl_cdip_sample/train_113.pdf,specification,train
+train_114.pdf,rvl_cdip_sample/train_114.pdf,questionnaire,train
+train_115.pdf,rvl_cdip_sample/train_115.pdf,email,train
+train_116.pdf,rvl_cdip_sample/train_116.pdf,handwritten,train
+train_117.pdf,rvl_cdip_sample/train_117.pdf,scientific report,train
+train_118.pdf,rvl_cdip_sample/train_118.pdf,news article,train
+train_119.pdf,rvl_cdip_sample/train_119.pdf,handwritten,train
+train_120.pdf,rvl_cdip_sample/train_120.pdf,memo,train
+train_121.pdf,rvl_cdip_sample/train_121.pdf,scientific publication,train
+train_122.pdf,rvl_cdip_sample/train_122.pdf,news article,train
+train_123.pdf,rvl_cdip_sample/train_123.pdf,letter,train
+train_124.pdf,rvl_cdip_sample/train_124.pdf,file folder,train
+train_125.pdf,rvl_cdip_sample/train_125.pdf,invoice,train
+train_126.pdf,rvl_cdip_sample/train_126.pdf,form,train
+train_127.pdf,rvl_cdip_sample/train_127.pdf,advertisement,train
+train_128.pdf,rvl_cdip_sample/train_128.pdf,scientific publication,train
+train_129.pdf,rvl_cdip_sample/train_129.pdf,news article,train
+train_130.pdf,rvl_cdip_sample/train_130.pdf,scientific publication,train
+train_131.pdf,rvl_cdip_sample/train_131.pdf,memo,train
+train_132.pdf,rvl_cdip_sample/train_132.pdf,memo,train
+train_133.pdf,rvl_cdip_sample/train_133.pdf,email,train
+train_134.pdf,rvl_cdip_sample/train_134.pdf,file folder,train
+train_135.pdf,rvl_cdip_sample/train_135.pdf,invoice,train
+train_136.pdf,rvl_cdip_sample/train_136.pdf,invoice,train
+train_137.pdf,rvl_cdip_sample/train_137.pdf,advertisement,train
+train_138.pdf,rvl_cdip_sample/train_138.pdf,advertisement,train
+train_139.pdf,rvl_cdip_sample/train_139.pdf,letter,train
+train_140.pdf,rvl_cdip_sample/train_140.pdf,news article,train
+train_141.pdf,rvl_cdip_sample/train_141.pdf,file folder,train
+train_142.pdf,rvl_cdip_sample/train_142.pdf,email,train
+train_143.pdf,rvl_cdip_sample/train_143.pdf,memo,train
+train_144.pdf,rvl_cdip_sample/train_144.pdf,letter,train
+train_145.pdf,rvl_cdip_sample/train_145.pdf,budget,train
+train_146.pdf,rvl_cdip_sample/train_146.pdf,invoice,train
+train_147.pdf,rvl_cdip_sample/train_147.pdf,budget,train
+train_148.pdf,rvl_cdip_sample/train_148.pdf,email,train
+train_149.pdf,rvl_cdip_sample/train_149.pdf,budget,train
+train_150.pdf,rvl_cdip_sample/train_150.pdf,form,train
+train_151.pdf,rvl_cdip_sample/train_151.pdf,file folder,train
+train_152.pdf,rvl_cdip_sample/train_152.pdf,presentation,train
+train_153.pdf,rvl_cdip_sample/train_153.pdf,scientific publication,train
+train_154.pdf,rvl_cdip_sample/train_154.pdf,handwritten,train
+train_155.pdf,rvl_cdip_sample/train_155.pdf,specification,train
+train_156.pdf,rvl_cdip_sample/train_156.pdf,news article,train
+train_157.pdf,rvl_cdip_sample/train_157.pdf,scientific report,train
+train_158.pdf,rvl_cdip_sample/train_158.pdf,presentation,train
+train_159.pdf,rvl_cdip_sample/train_159.pdf,memo,train
+train_160.pdf,rvl_cdip_sample/train_160.pdf,budget,train
+train_161.pdf,rvl_cdip_sample/train_161.pdf,letter,train
+train_162.pdf,rvl_cdip_sample/train_162.pdf,letter,train
+train_163.pdf,rvl_cdip_sample/train_163.pdf,letter,train
+train_164.pdf,rvl_cdip_sample/train_164.pdf,file folder,train
+train_165.pdf,rvl_cdip_sample/train_165.pdf,email,train
+train_166.pdf,rvl_cdip_sample/train_166.pdf,letter,train
+train_167.pdf,rvl_cdip_sample/train_167.pdf,scientific report,train
+train_168.pdf,rvl_cdip_sample/train_168.pdf,scientific report,train
+train_169.pdf,rvl_cdip_sample/train_169.pdf,resume,train
+train_170.pdf,rvl_cdip_sample/train_170.pdf,specification,train
+train_171.pdf,rvl_cdip_sample/train_171.pdf,scientific publication,train
+train_172.pdf,rvl_cdip_sample/train_172.pdf,letter,train
+train_173.pdf,rvl_cdip_sample/train_173.pdf,resume,train
+train_174.pdf,rvl_cdip_sample/train_174.pdf,specification,train
+train_175.pdf,rvl_cdip_sample/train_175.pdf,resume,train
+train_176.pdf,rvl_cdip_sample/train_176.pdf,letter,train
+train_177.pdf,rvl_cdip_sample/train_177.pdf,letter,train
+train_178.pdf,rvl_cdip_sample/train_178.pdf,letter,train
+train_179.pdf,rvl_cdip_sample/train_179.pdf,presentation,train
+train_180.pdf,rvl_cdip_sample/train_180.pdf,scientific report,train
+train_181.pdf,rvl_cdip_sample/train_181.pdf,form,train
+train_182.pdf,rvl_cdip_sample/train_182.pdf,invoice,train
+train_183.pdf,rvl_cdip_sample/train_183.pdf,presentation,train
+train_184.pdf,rvl_cdip_sample/train_184.pdf,advertisement,train
+train_185.pdf,rvl_cdip_sample/train_185.pdf,scientific report,train
+train_186.pdf,rvl_cdip_sample/train_186.pdf,news article,train
+train_187.pdf,rvl_cdip_sample/train_187.pdf,budget,train
+train_188.pdf,rvl_cdip_sample/train_188.pdf,budget,train
+train_189.pdf,rvl_cdip_sample/train_189.pdf,specification,train
+train_190.pdf,rvl_cdip_sample/train_190.pdf,presentation,train
+train_191.pdf,rvl_cdip_sample/train_191.pdf,resume,train
+train_192.pdf,rvl_cdip_sample/train_192.pdf,form,train
+train_193.pdf,rvl_cdip_sample/train_193.pdf,memo,train
+train_194.pdf,rvl_cdip_sample/train_194.pdf,letter,train
+train_195.pdf,rvl_cdip_sample/train_195.pdf,email,train
+train_196.pdf,rvl_cdip_sample/train_196.pdf,email,train
+train_197.pdf,rvl_cdip_sample/train_197.pdf,budget,train
+train_198.pdf,rvl_cdip_sample/train_198.pdf,news article,train
+train_199.pdf,rvl_cdip_sample/train_199.pdf,letter,train
+train_200.pdf,rvl_cdip_sample/train_200.pdf,budget,train
+train_201.pdf,rvl_cdip_sample/train_201.pdf,form,train
+train_202.pdf,rvl_cdip_sample/train_202.pdf,advertisement,train
+train_203.pdf,rvl_cdip_sample/train_203.pdf,questionnaire,train
+train_204.pdf,rvl_cdip_sample/train_204.pdf,budget,train
+train_205.pdf,rvl_cdip_sample/train_205.pdf,memo,train
+train_206.pdf,rvl_cdip_sample/train_206.pdf,specification,train
+train_207.pdf,rvl_cdip_sample/train_207.pdf,specification,train
+train_208.pdf,rvl_cdip_sample/train_208.pdf,specification,train
+train_209.pdf,rvl_cdip_sample/train_209.pdf,budget,train
+train_210.pdf,rvl_cdip_sample/train_210.pdf,advertisement,train
+train_211.pdf,rvl_cdip_sample/train_211.pdf,news article,train
+train_212.pdf,rvl_cdip_sample/train_212.pdf,questionnaire,train
+train_213.pdf,rvl_cdip_sample/train_213.pdf,file folder,train
+train_214.pdf,rvl_cdip_sample/train_214.pdf,letter,train
+train_215.pdf,rvl_cdip_sample/train_215.pdf,budget,train
+train_216.pdf,rvl_cdip_sample/train_216.pdf,scientific report,train
+train_217.pdf,rvl_cdip_sample/train_217.pdf,invoice,train
+train_218.pdf,rvl_cdip_sample/train_218.pdf,invoice,train
+train_219.pdf,rvl_cdip_sample/train_219.pdf,news article,train
+train_220.pdf,rvl_cdip_sample/train_220.pdf,form,train
+train_221.pdf,rvl_cdip_sample/train_221.pdf,handwritten,train
+train_222.pdf,rvl_cdip_sample/train_222.pdf,presentation,train
+train_223.pdf,rvl_cdip_sample/train_223.pdf,resume,train
+train_224.pdf,rvl_cdip_sample/train_224.pdf,specification,train
+train_225.pdf,rvl_cdip_sample/train_225.pdf,invoice,train
+train_226.pdf,rvl_cdip_sample/train_226.pdf,file folder,train
+train_227.pdf,rvl_cdip_sample/train_227.pdf,handwritten,train
+train_228.pdf,rvl_cdip_sample/train_228.pdf,scientific publication,train
+train_229.pdf,rvl_cdip_sample/train_229.pdf,handwritten,train
+train_230.pdf,rvl_cdip_sample/train_230.pdf,presentation,train
+train_231.pdf,rvl_cdip_sample/train_231.pdf,form,train
+train_232.pdf,rvl_cdip_sample/train_232.pdf,handwritten,train
+train_233.pdf,rvl_cdip_sample/train_233.pdf,news article,train
+train_234.pdf,rvl_cdip_sample/train_234.pdf,advertisement,train
+train_235.pdf,rvl_cdip_sample/train_235.pdf,scientific publication,train
+train_236.pdf,rvl_cdip_sample/train_236.pdf,memo,train
+train_237.pdf,rvl_cdip_sample/train_237.pdf,letter,train
+train_238.pdf,rvl_cdip_sample/train_238.pdf,email,train
+train_239.pdf,rvl_cdip_sample/train_239.pdf,questionnaire,train
+train_240.pdf,rvl_cdip_sample/train_240.pdf,scientific publication,train
+train_241.pdf,rvl_cdip_sample/train_241.pdf,invoice,train
+train_242.pdf,rvl_cdip_sample/train_242.pdf,questionnaire,train
+train_243.pdf,rvl_cdip_sample/train_243.pdf,invoice,train
+train_244.pdf,rvl_cdip_sample/train_244.pdf,advertisement,train
+train_245.pdf,rvl_cdip_sample/train_245.pdf,specification,train
+train_246.pdf,rvl_cdip_sample/train_246.pdf,specification,train
+train_247.pdf,rvl_cdip_sample/train_247.pdf,letter,train
+train_248.pdf,rvl_cdip_sample/train_248.pdf,resume,train
+train_249.pdf,rvl_cdip_sample/train_249.pdf,advertisement,train
+train_250.pdf,rvl_cdip_sample/train_250.pdf,scientific publication,train
+train_251.pdf,rvl_cdip_sample/train_251.pdf,budget,train
+train_252.pdf,rvl_cdip_sample/train_252.pdf,memo,train
+train_253.pdf,rvl_cdip_sample/train_253.pdf,handwritten,train
+train_254.pdf,rvl_cdip_sample/train_254.pdf,handwritten,train
+train_255.pdf,rvl_cdip_sample/train_255.pdf,email,train
+train_256.pdf,rvl_cdip_sample/train_256.pdf,form,train
+train_257.pdf,rvl_cdip_sample/train_257.pdf,scientific report,train
+train_258.pdf,rvl_cdip_sample/train_258.pdf,questionnaire,train
+train_259.pdf,rvl_cdip_sample/train_259.pdf,letter,train
+train_260.pdf,rvl_cdip_sample/train_260.pdf,email,train
+train_261.pdf,rvl_cdip_sample/train_261.pdf,form,train
+train_262.pdf,rvl_cdip_sample/train_262.pdf,file folder,train
+train_263.pdf,rvl_cdip_sample/train_263.pdf,invoice,train
+train_264.pdf,rvl_cdip_sample/train_264.pdf,resume,train
+train_265.pdf,rvl_cdip_sample/train_265.pdf,invoice,train
+train_266.pdf,rvl_cdip_sample/train_266.pdf,specification,train
+train_267.pdf,rvl_cdip_sample/train_267.pdf,budget,train
+train_268.pdf,rvl_cdip_sample/train_268.pdf,file folder,train
+train_269.pdf,rvl_cdip_sample/train_269.pdf,presentation,train
+train_270.pdf,rvl_cdip_sample/train_270.pdf,scientific report,train
+train_271.pdf,rvl_cdip_sample/train_271.pdf,file folder,train
+train_272.pdf,rvl_cdip_sample/train_272.pdf,news article,train
+train_273.pdf,rvl_cdip_sample/train_273.pdf,memo,train
+train_274.pdf,rvl_cdip_sample/train_274.pdf,file folder,train
+train_275.pdf,rvl_cdip_sample/train_275.pdf,email,train
+train_276.pdf,rvl_cdip_sample/train_276.pdf,letter,train
+train_277.pdf,rvl_cdip_sample/train_277.pdf,file folder,train
+train_278.pdf,rvl_cdip_sample/train_278.pdf,email,train
+train_279.pdf,rvl_cdip_sample/train_279.pdf,email,train
+train_280.pdf,rvl_cdip_sample/train_280.pdf,scientific report,train
+train_281.pdf,rvl_cdip_sample/train_281.pdf,resume,train
+train_282.pdf,rvl_cdip_sample/train_282.pdf,email,train
+train_283.pdf,rvl_cdip_sample/train_283.pdf,news article,train
+train_284.pdf,rvl_cdip_sample/train_284.pdf,handwritten,train
+train_285.pdf,rvl_cdip_sample/train_285.pdf,scientific publication,train
+train_286.pdf,rvl_cdip_sample/train_286.pdf,resume,train
+train_287.pdf,rvl_cdip_sample/train_287.pdf,news article,train
+train_288.pdf,rvl_cdip_sample/train_288.pdf,specification,train
+train_289.pdf,rvl_cdip_sample/train_289.pdf,handwritten,train
+train_290.pdf,rvl_cdip_sample/train_290.pdf,questionnaire,train
+train_291.pdf,rvl_cdip_sample/train_291.pdf,form,train
+train_292.pdf,rvl_cdip_sample/train_292.pdf,form,train
+train_293.pdf,rvl_cdip_sample/train_293.pdf,handwritten,train
+train_294.pdf,rvl_cdip_sample/train_294.pdf,resume,train
+train_295.pdf,rvl_cdip_sample/train_295.pdf,news article,train
+train_296.pdf,rvl_cdip_sample/train_296.pdf,questionnaire,train
+train_297.pdf,rvl_cdip_sample/train_297.pdf,email,train
+train_298.pdf,rvl_cdip_sample/train_298.pdf,scientific publication,train
+train_299.pdf,rvl_cdip_sample/train_299.pdf,invoice,train
+train_300.pdf,rvl_cdip_sample/train_300.pdf,form,train
+train_301.pdf,rvl_cdip_sample/train_301.pdf,resume,train
+train_302.pdf,rvl_cdip_sample/train_302.pdf,memo,train
+train_303.pdf,rvl_cdip_sample/train_303.pdf,memo,train
+train_304.pdf,rvl_cdip_sample/train_304.pdf,scientific report,train
+train_305.pdf,rvl_cdip_sample/train_305.pdf,memo,train
+train_306.pdf,rvl_cdip_sample/train_306.pdf,file folder,train
+train_307.pdf,rvl_cdip_sample/train_307.pdf,form,train
+train_308.pdf,rvl_cdip_sample/train_308.pdf,memo,train
+train_309.pdf,rvl_cdip_sample/train_309.pdf,scientific publication,train
+train_310.pdf,rvl_cdip_sample/train_310.pdf,news article,train
+train_311.pdf,rvl_cdip_sample/train_311.pdf,scientific publication,train
+train_312.pdf,rvl_cdip_sample/train_312.pdf,invoice,train
+train_313.pdf,rvl_cdip_sample/train_313.pdf,letter,train
+train_314.pdf,rvl_cdip_sample/train_314.pdf,file folder,train
+train_315.pdf,rvl_cdip_sample/train_315.pdf,memo,train
+train_316.pdf,rvl_cdip_sample/train_316.pdf,memo,train
+train_317.pdf,rvl_cdip_sample/train_317.pdf,questionnaire,train
+train_318.pdf,rvl_cdip_sample/train_318.pdf,form,train
+train_319.pdf,rvl_cdip_sample/train_319.pdf,questionnaire,train
+train_320.pdf,rvl_cdip_sample/train_320.pdf,budget,train
+train_321.pdf,rvl_cdip_sample/train_321.pdf,budget,train
+train_322.pdf,rvl_cdip_sample/train_322.pdf,file folder,train
+train_323.pdf,rvl_cdip_sample/train_323.pdf,form,train
+train_324.pdf,rvl_cdip_sample/train_324.pdf,presentation,train
+train_325.pdf,rvl_cdip_sample/train_325.pdf,invoice,train
+train_326.pdf,rvl_cdip_sample/train_326.pdf,advertisement,train
+train_327.pdf,rvl_cdip_sample/train_327.pdf,file folder,train
+train_328.pdf,rvl_cdip_sample/train_328.pdf,presentation,train
+train_329.pdf,rvl_cdip_sample/train_329.pdf,form,train
+train_330.pdf,rvl_cdip_sample/train_330.pdf,handwritten,train
+train_331.pdf,rvl_cdip_sample/train_331.pdf,handwritten,train
+train_332.pdf,rvl_cdip_sample/train_332.pdf,questionnaire,train
+train_333.pdf,rvl_cdip_sample/train_333.pdf,email,train
+train_334.pdf,rvl_cdip_sample/train_334.pdf,scientific publication,train
+train_335.pdf,rvl_cdip_sample/train_335.pdf,specification,train
+train_336.pdf,rvl_cdip_sample/train_336.pdf,specification,train
+train_337.pdf,rvl_cdip_sample/train_337.pdf,budget,train
+train_338.pdf,rvl_cdip_sample/train_338.pdf,invoice,train
+train_339.pdf,rvl_cdip_sample/train_339.pdf,specification,train
+train_340.pdf,rvl_cdip_sample/train_340.pdf,resume,train
+train_341.pdf,rvl_cdip_sample/train_341.pdf,advertisement,train
+train_342.pdf,rvl_cdip_sample/train_342.pdf,budget,train
+train_343.pdf,rvl_cdip_sample/train_343.pdf,handwritten,train
+train_344.pdf,rvl_cdip_sample/train_344.pdf,resume,train
+train_345.pdf,rvl_cdip_sample/train_345.pdf,scientific publication,train
+train_346.pdf,rvl_cdip_sample/train_346.pdf,news article,train
+train_347.pdf,rvl_cdip_sample/train_347.pdf,email,train
+train_348.pdf,rvl_cdip_sample/train_348.pdf,form,train
+train_349.pdf,rvl_cdip_sample/train_349.pdf,scientific publication,train
+train_350.pdf,rvl_cdip_sample/train_350.pdf,news article,train
+train_351.pdf,rvl_cdip_sample/train_351.pdf,handwritten,train
+train_352.pdf,rvl_cdip_sample/train_352.pdf,budget,train
+train_353.pdf,rvl_cdip_sample/train_353.pdf,resume,train
+train_354.pdf,rvl_cdip_sample/train_354.pdf,advertisement,train
+train_355.pdf,rvl_cdip_sample/train_355.pdf,letter,train
+train_356.pdf,rvl_cdip_sample/train_356.pdf,questionnaire,train
+train_357.pdf,rvl_cdip_sample/train_357.pdf,invoice,train
+train_358.pdf,rvl_cdip_sample/train_358.pdf,memo,train
+train_359.pdf,rvl_cdip_sample/train_359.pdf,scientific report,train
+train_360.pdf,rvl_cdip_sample/train_360.pdf,scientific report,train
+train_361.pdf,rvl_cdip_sample/train_361.pdf,resume,train
+train_362.pdf,rvl_cdip_sample/train_362.pdf,file folder,train
+train_363.pdf,rvl_cdip_sample/train_363.pdf,email,train
+train_364.pdf,rvl_cdip_sample/train_364.pdf,specification,train
+train_365.pdf,rvl_cdip_sample/train_365.pdf,memo,train
+train_366.pdf,rvl_cdip_sample/train_366.pdf,news article,train
+train_367.pdf,rvl_cdip_sample/train_367.pdf,news article,train
+train_368.pdf,rvl_cdip_sample/train_368.pdf,letter,train
+train_369.pdf,rvl_cdip_sample/train_369.pdf,resume,train
+train_370.pdf,rvl_cdip_sample/train_370.pdf,news article,train
+train_371.pdf,rvl_cdip_sample/train_371.pdf,memo,train
+train_372.pdf,rvl_cdip_sample/train_372.pdf,invoice,train
+train_373.pdf,rvl_cdip_sample/train_373.pdf,memo,train
+train_374.pdf,rvl_cdip_sample/train_374.pdf,form,train
+train_375.pdf,rvl_cdip_sample/train_375.pdf,resume,train
+train_376.pdf,rvl_cdip_sample/train_376.pdf,handwritten,train
+train_377.pdf,rvl_cdip_sample/train_377.pdf,resume,train
+train_378.pdf,rvl_cdip_sample/train_378.pdf,form,train
+train_379.pdf,rvl_cdip_sample/train_379.pdf,file folder,train
+train_380.pdf,rvl_cdip_sample/train_380.pdf,form,train
+train_381.pdf,rvl_cdip_sample/train_381.pdf,invoice,train
+train_382.pdf,rvl_cdip_sample/train_382.pdf,scientific report,train
+train_383.pdf,rvl_cdip_sample/train_383.pdf,memo,train
+train_384.pdf,rvl_cdip_sample/train_384.pdf,questionnaire,train
+train_385.pdf,rvl_cdip_sample/train_385.pdf,budget,train
+train_386.pdf,rvl_cdip_sample/train_386.pdf,letter,train
+train_387.pdf,rvl_cdip_sample/train_387.pdf,letter,train
+train_388.pdf,rvl_cdip_sample/train_388.pdf,scientific report,train
+train_389.pdf,rvl_cdip_sample/train_389.pdf,memo,train
+train_390.pdf,rvl_cdip_sample/train_390.pdf,presentation,train
+train_391.pdf,rvl_cdip_sample/train_391.pdf,presentation,train
+train_392.pdf,rvl_cdip_sample/train_392.pdf,scientific publication,train
+train_393.pdf,rvl_cdip_sample/train_393.pdf,form,train
+train_394.pdf,rvl_cdip_sample/train_394.pdf,questionnaire,train
+train_395.pdf,rvl_cdip_sample/train_395.pdf,advertisement,train
+train_396.pdf,rvl_cdip_sample/train_396.pdf,invoice,train
+train_397.pdf,rvl_cdip_sample/train_397.pdf,handwritten,train
+train_398.pdf,rvl_cdip_sample/train_398.pdf,budget,train
+train_399.pdf,rvl_cdip_sample/train_399.pdf,handwritten,train
+train_400.pdf,rvl_cdip_sample/train_400.pdf,file folder,train
+train_401.pdf,rvl_cdip_sample/train_401.pdf,scientific publication,train
+train_402.pdf,rvl_cdip_sample/train_402.pdf,resume,train
+train_403.pdf,rvl_cdip_sample/train_403.pdf,questionnaire,train
+train_404.pdf,rvl_cdip_sample/train_404.pdf,budget,train
+train_405.pdf,rvl_cdip_sample/train_405.pdf,handwritten,train
+train_406.pdf,rvl_cdip_sample/train_406.pdf,specification,train
+train_407.pdf,rvl_cdip_sample/train_407.pdf,memo,train
+train_408.pdf,rvl_cdip_sample/train_408.pdf,form,train
+train_409.pdf,rvl_cdip_sample/train_409.pdf,memo,train
+train_410.pdf,rvl_cdip_sample/train_410.pdf,form,train
+train_411.pdf,rvl_cdip_sample/train_411.pdf,resume,train
+train_412.pdf,rvl_cdip_sample/train_412.pdf,file folder,train
+train_413.pdf,rvl_cdip_sample/train_413.pdf,file folder,train
+train_414.pdf,rvl_cdip_sample/train_414.pdf,news article,train
+train_415.pdf,rvl_cdip_sample/train_415.pdf,handwritten,train
+train_416.pdf,rvl_cdip_sample/train_416.pdf,handwritten,train
+train_417.pdf,rvl_cdip_sample/train_417.pdf,specification,train
+train_418.pdf,rvl_cdip_sample/train_418.pdf,news article,train
+train_419.pdf,rvl_cdip_sample/train_419.pdf,handwritten,train
+train_420.pdf,rvl_cdip_sample/train_420.pdf,memo,train
+train_421.pdf,rvl_cdip_sample/train_421.pdf,memo,train
+train_422.pdf,rvl_cdip_sample/train_422.pdf,budget,train
+train_423.pdf,rvl_cdip_sample/train_423.pdf,memo,train
+train_424.pdf,rvl_cdip_sample/train_424.pdf,memo,train
+train_425.pdf,rvl_cdip_sample/train_425.pdf,scientific report,train
+train_426.pdf,rvl_cdip_sample/train_426.pdf,specification,train
+train_427.pdf,rvl_cdip_sample/train_427.pdf,handwritten,train
+train_428.pdf,rvl_cdip_sample/train_428.pdf,scientific report,train
+train_429.pdf,rvl_cdip_sample/train_429.pdf,scientific publication,train
+train_430.pdf,rvl_cdip_sample/train_430.pdf,file folder,train
+train_431.pdf,rvl_cdip_sample/train_431.pdf,file folder,train
+train_432.pdf,rvl_cdip_sample/train_432.pdf,file folder,train
+train_433.pdf,rvl_cdip_sample/train_433.pdf,questionnaire,train
+train_434.pdf,rvl_cdip_sample/train_434.pdf,handwritten,train
+train_435.pdf,rvl_cdip_sample/train_435.pdf,questionnaire,train
+train_436.pdf,rvl_cdip_sample/train_436.pdf,memo,train
+train_437.pdf,rvl_cdip_sample/train_437.pdf,scientific publication,train
+train_438.pdf,rvl_cdip_sample/train_438.pdf,scientific publication,train
+train_439.pdf,rvl_cdip_sample/train_439.pdf,news article,train
+train_440.pdf,rvl_cdip_sample/train_440.pdf,advertisement,train
+train_441.pdf,rvl_cdip_sample/train_441.pdf,resume,train
+train_442.pdf,rvl_cdip_sample/train_442.pdf,letter,train
+train_443.pdf,rvl_cdip_sample/train_443.pdf,resume,train
+train_444.pdf,rvl_cdip_sample/train_444.pdf,news article,train
+train_445.pdf,rvl_cdip_sample/train_445.pdf,scientific publication,train
+train_446.pdf,rvl_cdip_sample/train_446.pdf,invoice,train
+train_447.pdf,rvl_cdip_sample/train_447.pdf,resume,train
+train_448.pdf,rvl_cdip_sample/train_448.pdf,email,train
+train_449.pdf,rvl_cdip_sample/train_449.pdf,file folder,train
+train_450.pdf,rvl_cdip_sample/train_450.pdf,resume,train
+train_451.pdf,rvl_cdip_sample/train_451.pdf,scientific publication,train
+train_452.pdf,rvl_cdip_sample/train_452.pdf,news article,train
+train_453.pdf,rvl_cdip_sample/train_453.pdf,scientific publication,train
+train_454.pdf,rvl_cdip_sample/train_454.pdf,file folder,train
+train_455.pdf,rvl_cdip_sample/train_455.pdf,specification,train
+train_456.pdf,rvl_cdip_sample/train_456.pdf,budget,train
+train_457.pdf,rvl_cdip_sample/train_457.pdf,letter,train
+train_458.pdf,rvl_cdip_sample/train_458.pdf,invoice,train
+train_459.pdf,rvl_cdip_sample/train_459.pdf,letter,train
+train_460.pdf,rvl_cdip_sample/train_460.pdf,resume,train
+train_461.pdf,rvl_cdip_sample/train_461.pdf,budget,train
+train_462.pdf,rvl_cdip_sample/train_462.pdf,memo,train
+train_463.pdf,rvl_cdip_sample/train_463.pdf,file folder,train
+train_464.pdf,rvl_cdip_sample/train_464.pdf,email,train
+train_465.pdf,rvl_cdip_sample/train_465.pdf,email,train
+train_466.pdf,rvl_cdip_sample/train_466.pdf,memo,train
+train_467.pdf,rvl_cdip_sample/train_467.pdf,form,train
+train_468.pdf,rvl_cdip_sample/train_468.pdf,resume,train
+train_469.pdf,rvl_cdip_sample/train_469.pdf,questionnaire,train
+train_470.pdf,rvl_cdip_sample/train_470.pdf,memo,train
+train_471.pdf,rvl_cdip_sample/train_471.pdf,email,train
+train_472.pdf,rvl_cdip_sample/train_472.pdf,file folder,train
+train_473.pdf,rvl_cdip_sample/train_473.pdf,resume,train
+train_474.pdf,rvl_cdip_sample/train_474.pdf,budget,train
+train_475.pdf,rvl_cdip_sample/train_475.pdf,advertisement,train
+train_476.pdf,rvl_cdip_sample/train_476.pdf,resume,train
+train_477.pdf,rvl_cdip_sample/train_477.pdf,presentation,train
+train_478.pdf,rvl_cdip_sample/train_478.pdf,questionnaire,train
+train_479.pdf,rvl_cdip_sample/train_479.pdf,advertisement,train
+train_480.pdf,rvl_cdip_sample/train_480.pdf,scientific publication,train
+train_481.pdf,rvl_cdip_sample/train_481.pdf,file folder,train
+train_482.pdf,rvl_cdip_sample/train_482.pdf,invoice,train
+train_483.pdf,rvl_cdip_sample/train_483.pdf,email,train
+train_484.pdf,rvl_cdip_sample/train_484.pdf,scientific report,train
+train_485.pdf,rvl_cdip_sample/train_485.pdf,email,train
+train_486.pdf,rvl_cdip_sample/train_486.pdf,questionnaire,train
+train_487.pdf,rvl_cdip_sample/train_487.pdf,memo,train
+train_488.pdf,rvl_cdip_sample/train_488.pdf,scientific report,train
+train_489.pdf,rvl_cdip_sample/train_489.pdf,budget,train
+train_490.pdf,rvl_cdip_sample/train_490.pdf,memo,train
+train_491.pdf,rvl_cdip_sample/train_491.pdf,handwritten,train
+train_492.pdf,rvl_cdip_sample/train_492.pdf,file folder,train
+train_493.pdf,rvl_cdip_sample/train_493.pdf,presentation,train
+train_494.pdf,rvl_cdip_sample/train_494.pdf,specification,train
+train_495.pdf,rvl_cdip_sample/train_495.pdf,questionnaire,train
+train_496.pdf,rvl_cdip_sample/train_496.pdf,handwritten,train
+train_497.pdf,rvl_cdip_sample/train_497.pdf,letter,train
+train_498.pdf,rvl_cdip_sample/train_498.pdf,scientific publication,train
+train_499.pdf,rvl_cdip_sample/train_499.pdf,resume,train
+train_500.pdf,rvl_cdip_sample/train_500.pdf,scientific publication,train
+train_501.pdf,rvl_cdip_sample/train_501.pdf,resume,train
+train_502.pdf,rvl_cdip_sample/train_502.pdf,questionnaire,train
+train_503.pdf,rvl_cdip_sample/train_503.pdf,scientific report,train
+train_504.pdf,rvl_cdip_sample/train_504.pdf,letter,train
+train_505.pdf,rvl_cdip_sample/train_505.pdf,form,train
+train_506.pdf,rvl_cdip_sample/train_506.pdf,presentation,train
+train_507.pdf,rvl_cdip_sample/train_507.pdf,email,train
+train_508.pdf,rvl_cdip_sample/train_508.pdf,handwritten,train
+train_509.pdf,rvl_cdip_sample/train_509.pdf,scientific publication,train
+train_510.pdf,rvl_cdip_sample/train_510.pdf,file folder,train
+train_511.pdf,rvl_cdip_sample/train_511.pdf,email,train
+train_512.pdf,rvl_cdip_sample/train_512.pdf,memo,train
+train_513.pdf,rvl_cdip_sample/train_513.pdf,scientific publication,train
+train_514.pdf,rvl_cdip_sample/train_514.pdf,specification,train
+train_515.pdf,rvl_cdip_sample/train_515.pdf,scientific publication,train
+train_516.pdf,rvl_cdip_sample/train_516.pdf,scientific report,train
+train_517.pdf,rvl_cdip_sample/train_517.pdf,presentation,train
+train_518.pdf,rvl_cdip_sample/train_518.pdf,questionnaire,train
+train_519.pdf,rvl_cdip_sample/train_519.pdf,scientific report,train
+train_520.pdf,rvl_cdip_sample/train_520.pdf,presentation,train
+train_521.pdf,rvl_cdip_sample/train_521.pdf,invoice,train
+train_522.pdf,rvl_cdip_sample/train_522.pdf,scientific publication,train
+train_523.pdf,rvl_cdip_sample/train_523.pdf,handwritten,train
+train_524.pdf,rvl_cdip_sample/train_524.pdf,news article,train
+train_525.pdf,rvl_cdip_sample/train_525.pdf,presentation,train
+train_526.pdf,rvl_cdip_sample/train_526.pdf,form,train
+train_527.pdf,rvl_cdip_sample/train_527.pdf,news article,train
+train_528.pdf,rvl_cdip_sample/train_528.pdf,email,train
+train_529.pdf,rvl_cdip_sample/train_529.pdf,file folder,train
+train_530.pdf,rvl_cdip_sample/train_530.pdf,scientific publication,train
+train_531.pdf,rvl_cdip_sample/train_531.pdf,scientific report,train
+train_532.pdf,rvl_cdip_sample/train_532.pdf,email,train
+train_533.pdf,rvl_cdip_sample/train_533.pdf,news article,train
+train_534.pdf,rvl_cdip_sample/train_534.pdf,scientific publication,train
+train_535.pdf,rvl_cdip_sample/train_535.pdf,news article,train
+train_536.pdf,rvl_cdip_sample/train_536.pdf,letter,train
+train_537.pdf,rvl_cdip_sample/train_537.pdf,invoice,train
+train_538.pdf,rvl_cdip_sample/train_538.pdf,file folder,train
+train_539.pdf,rvl_cdip_sample/train_539.pdf,memo,train
+train_540.pdf,rvl_cdip_sample/train_540.pdf,file folder,train
+train_541.pdf,rvl_cdip_sample/train_541.pdf,file folder,train
+train_542.pdf,rvl_cdip_sample/train_542.pdf,memo,train
+train_543.pdf,rvl_cdip_sample/train_543.pdf,resume,train
+train_544.pdf,rvl_cdip_sample/train_544.pdf,file folder,train
+train_545.pdf,rvl_cdip_sample/train_545.pdf,memo,train
+train_546.pdf,rvl_cdip_sample/train_546.pdf,budget,train
+train_547.pdf,rvl_cdip_sample/train_547.pdf,invoice,train
+train_548.pdf,rvl_cdip_sample/train_548.pdf,handwritten,train
+train_549.pdf,rvl_cdip_sample/train_549.pdf,questionnaire,train
+train_550.pdf,rvl_cdip_sample/train_550.pdf,email,train
+train_551.pdf,rvl_cdip_sample/train_551.pdf,resume,train
+train_552.pdf,rvl_cdip_sample/train_552.pdf,form,train
+train_553.pdf,rvl_cdip_sample/train_553.pdf,presentation,train
+train_554.pdf,rvl_cdip_sample/train_554.pdf,scientific report,train
+train_555.pdf,rvl_cdip_sample/train_555.pdf,scientific publication,train
+train_556.pdf,rvl_cdip_sample/train_556.pdf,presentation,train
+train_557.pdf,rvl_cdip_sample/train_557.pdf,scientific report,train
+train_558.pdf,rvl_cdip_sample/train_558.pdf,email,train
+train_559.pdf,rvl_cdip_sample/train_559.pdf,advertisement,train
+train_560.pdf,rvl_cdip_sample/train_560.pdf,specification,train
+train_561.pdf,rvl_cdip_sample/train_561.pdf,memo,train
+train_562.pdf,rvl_cdip_sample/train_562.pdf,scientific report,train
+train_563.pdf,rvl_cdip_sample/train_563.pdf,handwritten,train
+train_564.pdf,rvl_cdip_sample/train_564.pdf,advertisement,train
+train_565.pdf,rvl_cdip_sample/train_565.pdf,specification,train
+train_566.pdf,rvl_cdip_sample/train_566.pdf,memo,train
+train_567.pdf,rvl_cdip_sample/train_567.pdf,specification,train
+train_568.pdf,rvl_cdip_sample/train_568.pdf,file folder,train
+train_569.pdf,rvl_cdip_sample/train_569.pdf,file folder,train
+train_570.pdf,rvl_cdip_sample/train_570.pdf,memo,train
+train_571.pdf,rvl_cdip_sample/train_571.pdf,budget,train
+train_572.pdf,rvl_cdip_sample/train_572.pdf,budget,train
+train_573.pdf,rvl_cdip_sample/train_573.pdf,specification,train
+train_574.pdf,rvl_cdip_sample/train_574.pdf,handwritten,train
+train_575.pdf,rvl_cdip_sample/train_575.pdf,resume,train
+train_576.pdf,rvl_cdip_sample/train_576.pdf,scientific publication,train
+train_577.pdf,rvl_cdip_sample/train_577.pdf,email,train
+train_578.pdf,rvl_cdip_sample/train_578.pdf,memo,train
+train_579.pdf,rvl_cdip_sample/train_579.pdf,questionnaire,train
+train_580.pdf,rvl_cdip_sample/train_580.pdf,questionnaire,train
+train_581.pdf,rvl_cdip_sample/train_581.pdf,budget,train
+train_582.pdf,rvl_cdip_sample/train_582.pdf,news article,train
+train_583.pdf,rvl_cdip_sample/train_583.pdf,memo,train
+train_584.pdf,rvl_cdip_sample/train_584.pdf,scientific publication,train
+train_585.pdf,rvl_cdip_sample/train_585.pdf,questionnaire,train
+train_586.pdf,rvl_cdip_sample/train_586.pdf,email,train
+train_587.pdf,rvl_cdip_sample/train_587.pdf,letter,train
+train_588.pdf,rvl_cdip_sample/train_588.pdf,form,train
+train_589.pdf,rvl_cdip_sample/train_589.pdf,handwritten,train
+train_590.pdf,rvl_cdip_sample/train_590.pdf,letter,train
+train_591.pdf,rvl_cdip_sample/train_591.pdf,email,train
+train_592.pdf,rvl_cdip_sample/train_592.pdf,file folder,train
+train_593.pdf,rvl_cdip_sample/train_593.pdf,budget,train
+train_594.pdf,rvl_cdip_sample/train_594.pdf,scientific publication,train
+train_595.pdf,rvl_cdip_sample/train_595.pdf,file folder,train
+train_596.pdf,rvl_cdip_sample/train_596.pdf,email,train
+train_597.pdf,rvl_cdip_sample/train_597.pdf,advertisement,train
+train_598.pdf,rvl_cdip_sample/train_598.pdf,handwritten,train
+train_599.pdf,rvl_cdip_sample/train_599.pdf,file folder,train
+train_600.pdf,rvl_cdip_sample/train_600.pdf,scientific report,train
+train_601.pdf,rvl_cdip_sample/train_601.pdf,form,train
+train_602.pdf,rvl_cdip_sample/train_602.pdf,presentation,train
+train_603.pdf,rvl_cdip_sample/train_603.pdf,specification,train
+train_604.pdf,rvl_cdip_sample/train_604.pdf,file folder,train
+train_605.pdf,rvl_cdip_sample/train_605.pdf,budget,train
+train_606.pdf,rvl_cdip_sample/train_606.pdf,news article,train
+train_607.pdf,rvl_cdip_sample/train_607.pdf,news article,train
+train_608.pdf,rvl_cdip_sample/train_608.pdf,form,train
+train_609.pdf,rvl_cdip_sample/train_609.pdf,resume,train
+train_610.pdf,rvl_cdip_sample/train_610.pdf,specification,train
+train_611.pdf,rvl_cdip_sample/train_611.pdf,questionnaire,train
+train_612.pdf,rvl_cdip_sample/train_612.pdf,email,train
+train_613.pdf,rvl_cdip_sample/train_613.pdf,specification,train
+train_614.pdf,rvl_cdip_sample/train_614.pdf,letter,train
+train_615.pdf,rvl_cdip_sample/train_615.pdf,scientific publication,train
+train_616.pdf,rvl_cdip_sample/train_616.pdf,form,train
+train_617.pdf,rvl_cdip_sample/train_617.pdf,scientific publication,train
+train_618.pdf,rvl_cdip_sample/train_618.pdf,form,train
+train_619.pdf,rvl_cdip_sample/train_619.pdf,budget,train
+train_620.pdf,rvl_cdip_sample/train_620.pdf,questionnaire,train
+train_621.pdf,rvl_cdip_sample/train_621.pdf,form,train
+train_622.pdf,rvl_cdip_sample/train_622.pdf,news article,train
+train_623.pdf,rvl_cdip_sample/train_623.pdf,letter,train
+train_624.pdf,rvl_cdip_sample/train_624.pdf,file folder,train
+train_625.pdf,rvl_cdip_sample/train_625.pdf,file folder,train
+train_626.pdf,rvl_cdip_sample/train_626.pdf,form,train
+train_627.pdf,rvl_cdip_sample/train_627.pdf,questionnaire,train
+train_628.pdf,rvl_cdip_sample/train_628.pdf,news article,train
+train_629.pdf,rvl_cdip_sample/train_629.pdf,resume,train
+train_630.pdf,rvl_cdip_sample/train_630.pdf,news article,train
+train_631.pdf,rvl_cdip_sample/train_631.pdf,file folder,train
+train_632.pdf,rvl_cdip_sample/train_632.pdf,form,train
+train_633.pdf,rvl_cdip_sample/train_633.pdf,budget,train
+train_634.pdf,rvl_cdip_sample/train_634.pdf,file folder,train
+train_635.pdf,rvl_cdip_sample/train_635.pdf,specification,train
+train_636.pdf,rvl_cdip_sample/train_636.pdf,resume,train
+train_637.pdf,rvl_cdip_sample/train_637.pdf,email,train
+train_638.pdf,rvl_cdip_sample/train_638.pdf,form,train
+train_639.pdf,rvl_cdip_sample/train_639.pdf,resume,train
+train_640.pdf,rvl_cdip_sample/train_640.pdf,specification,train
+train_641.pdf,rvl_cdip_sample/train_641.pdf,budget,train
+train_642.pdf,rvl_cdip_sample/train_642.pdf,handwritten,train
+train_643.pdf,rvl_cdip_sample/train_643.pdf,form,train
+train_644.pdf,rvl_cdip_sample/train_644.pdf,resume,train
+train_645.pdf,rvl_cdip_sample/train_645.pdf,questionnaire,train
+train_646.pdf,rvl_cdip_sample/train_646.pdf,handwritten,train
+train_647.pdf,rvl_cdip_sample/train_647.pdf,questionnaire,train
+train_648.pdf,rvl_cdip_sample/train_648.pdf,memo,train
+train_649.pdf,rvl_cdip_sample/train_649.pdf,scientific report,train
+train_650.pdf,rvl_cdip_sample/train_650.pdf,email,train
+train_651.pdf,rvl_cdip_sample/train_651.pdf,scientific report,train
+train_652.pdf,rvl_cdip_sample/train_652.pdf,form,train
+train_653.pdf,rvl_cdip_sample/train_653.pdf,advertisement,train
+train_654.pdf,rvl_cdip_sample/train_654.pdf,handwritten,train
+train_655.pdf,rvl_cdip_sample/train_655.pdf,email,train
+train_656.pdf,rvl_cdip_sample/train_656.pdf,handwritten,train
+train_657.pdf,rvl_cdip_sample/train_657.pdf,letter,train
+train_658.pdf,rvl_cdip_sample/train_658.pdf,presentation,train
+train_659.pdf,rvl_cdip_sample/train_659.pdf,specification,train
+train_660.pdf,rvl_cdip_sample/train_660.pdf,advertisement,train
+train_661.pdf,rvl_cdip_sample/train_661.pdf,handwritten,train
+train_662.pdf,rvl_cdip_sample/train_662.pdf,handwritten,train
+train_663.pdf,rvl_cdip_sample/train_663.pdf,handwritten,train
+train_664.pdf,rvl_cdip_sample/train_664.pdf,specification,train
+train_665.pdf,rvl_cdip_sample/train_665.pdf,news article,train
+train_666.pdf,rvl_cdip_sample/train_666.pdf,scientific report,train
+train_667.pdf,rvl_cdip_sample/train_667.pdf,memo,train
+train_668.pdf,rvl_cdip_sample/train_668.pdf,handwritten,train
+train_669.pdf,rvl_cdip_sample/train_669.pdf,file folder,train
+train_670.pdf,rvl_cdip_sample/train_670.pdf,form,train
+train_671.pdf,rvl_cdip_sample/train_671.pdf,form,train
+train_672.pdf,rvl_cdip_sample/train_672.pdf,invoice,train
+train_673.pdf,rvl_cdip_sample/train_673.pdf,questionnaire,train
+train_674.pdf,rvl_cdip_sample/train_674.pdf,resume,train
+train_675.pdf,rvl_cdip_sample/train_675.pdf,email,train
+train_676.pdf,rvl_cdip_sample/train_676.pdf,budget,train
+train_677.pdf,rvl_cdip_sample/train_677.pdf,budget,train
+train_678.pdf,rvl_cdip_sample/train_678.pdf,advertisement,train
+train_679.pdf,rvl_cdip_sample/train_679.pdf,letter,train
+train_680.pdf,rvl_cdip_sample/train_680.pdf,memo,train
+train_681.pdf,rvl_cdip_sample/train_681.pdf,invoice,train
+train_682.pdf,rvl_cdip_sample/train_682.pdf,news article,train
+train_683.pdf,rvl_cdip_sample/train_683.pdf,form,train
+train_684.pdf,rvl_cdip_sample/train_684.pdf,form,train
+train_685.pdf,rvl_cdip_sample/train_685.pdf,invoice,train
+train_686.pdf,rvl_cdip_sample/train_686.pdf,presentation,train
+train_687.pdf,rvl_cdip_sample/train_687.pdf,specification,train
+train_688.pdf,rvl_cdip_sample/train_688.pdf,presentation,train
+train_689.pdf,rvl_cdip_sample/train_689.pdf,handwritten,train
+train_690.pdf,rvl_cdip_sample/train_690.pdf,budget,train
+train_691.pdf,rvl_cdip_sample/train_691.pdf,invoice,train
+train_692.pdf,rvl_cdip_sample/train_692.pdf,advertisement,train
+train_693.pdf,rvl_cdip_sample/train_693.pdf,invoice,train
+train_694.pdf,rvl_cdip_sample/train_694.pdf,email,train
+train_695.pdf,rvl_cdip_sample/train_695.pdf,questionnaire,train
+train_696.pdf,rvl_cdip_sample/train_696.pdf,advertisement,train
+train_697.pdf,rvl_cdip_sample/train_697.pdf,scientific publication,train
+train_698.pdf,rvl_cdip_sample/train_698.pdf,scientific publication,train
+train_699.pdf,rvl_cdip_sample/train_699.pdf,questionnaire,train
+train_700.pdf,rvl_cdip_sample/train_700.pdf,news article,train
+train_701.pdf,rvl_cdip_sample/train_701.pdf,file folder,train
+train_702.pdf,rvl_cdip_sample/train_702.pdf,form,train
+train_703.pdf,rvl_cdip_sample/train_703.pdf,presentation,train
+train_704.pdf,rvl_cdip_sample/train_704.pdf,budget,train
+train_705.pdf,rvl_cdip_sample/train_705.pdf,news article,train
+train_706.pdf,rvl_cdip_sample/train_706.pdf,invoice,train
+train_707.pdf,rvl_cdip_sample/train_707.pdf,news article,train
+train_708.pdf,rvl_cdip_sample/train_708.pdf,specification,train
+train_709.pdf,rvl_cdip_sample/train_709.pdf,presentation,train
+train_710.pdf,rvl_cdip_sample/train_710.pdf,file folder,train
+train_711.pdf,rvl_cdip_sample/train_711.pdf,form,train
+train_712.pdf,rvl_cdip_sample/train_712.pdf,questionnaire,train
+train_713.pdf,rvl_cdip_sample/train_713.pdf,handwritten,train
+train_714.pdf,rvl_cdip_sample/train_714.pdf,advertisement,train
+train_715.pdf,rvl_cdip_sample/train_715.pdf,news article,train
+train_716.pdf,rvl_cdip_sample/train_716.pdf,file folder,train
+train_717.pdf,rvl_cdip_sample/train_717.pdf,file folder,train
+train_718.pdf,rvl_cdip_sample/train_718.pdf,presentation,train
+train_719.pdf,rvl_cdip_sample/train_719.pdf,presentation,train
+train_720.pdf,rvl_cdip_sample/train_720.pdf,file folder,train
+train_721.pdf,rvl_cdip_sample/train_721.pdf,budget,train
+train_722.pdf,rvl_cdip_sample/train_722.pdf,handwritten,train
+train_723.pdf,rvl_cdip_sample/train_723.pdf,scientific report,train
+train_724.pdf,rvl_cdip_sample/train_724.pdf,memo,train
+train_725.pdf,rvl_cdip_sample/train_725.pdf,budget,train
+train_726.pdf,rvl_cdip_sample/train_726.pdf,advertisement,train
+train_727.pdf,rvl_cdip_sample/train_727.pdf,resume,train
+train_728.pdf,rvl_cdip_sample/train_728.pdf,handwritten,train
+train_729.pdf,rvl_cdip_sample/train_729.pdf,invoice,train
+train_730.pdf,rvl_cdip_sample/train_730.pdf,news article,train
+train_731.pdf,rvl_cdip_sample/train_731.pdf,questionnaire,train
+train_732.pdf,rvl_cdip_sample/train_732.pdf,specification,train
+train_733.pdf,rvl_cdip_sample/train_733.pdf,questionnaire,train
+train_734.pdf,rvl_cdip_sample/train_734.pdf,resume,train
+train_735.pdf,rvl_cdip_sample/train_735.pdf,budget,train
+train_736.pdf,rvl_cdip_sample/train_736.pdf,questionnaire,train
+train_737.pdf,rvl_cdip_sample/train_737.pdf,news article,train
+train_738.pdf,rvl_cdip_sample/train_738.pdf,file folder,train
+train_739.pdf,rvl_cdip_sample/train_739.pdf,scientific report,train
+train_740.pdf,rvl_cdip_sample/train_740.pdf,specification,train
+train_741.pdf,rvl_cdip_sample/train_741.pdf,scientific publication,train
+train_742.pdf,rvl_cdip_sample/train_742.pdf,handwritten,train
+train_743.pdf,rvl_cdip_sample/train_743.pdf,questionnaire,train
+train_744.pdf,rvl_cdip_sample/train_744.pdf,handwritten,train
+train_745.pdf,rvl_cdip_sample/train_745.pdf,email,train
+train_746.pdf,rvl_cdip_sample/train_746.pdf,presentation,train
+train_747.pdf,rvl_cdip_sample/train_747.pdf,handwritten,train
+train_748.pdf,rvl_cdip_sample/train_748.pdf,letter,train
+train_749.pdf,rvl_cdip_sample/train_749.pdf,presentation,train
+train_750.pdf,rvl_cdip_sample/train_750.pdf,email,train
+train_751.pdf,rvl_cdip_sample/train_751.pdf,invoice,train
+train_752.pdf,rvl_cdip_sample/train_752.pdf,resume,train
+train_753.pdf,rvl_cdip_sample/train_753.pdf,advertisement,train
+train_754.pdf,rvl_cdip_sample/train_754.pdf,specification,train
+train_755.pdf,rvl_cdip_sample/train_755.pdf,scientific report,train
+train_756.pdf,rvl_cdip_sample/train_756.pdf,scientific publication,train
+train_757.pdf,rvl_cdip_sample/train_757.pdf,budget,train
+train_758.pdf,rvl_cdip_sample/train_758.pdf,presentation,train
+train_759.pdf,rvl_cdip_sample/train_759.pdf,invoice,train
+train_760.pdf,rvl_cdip_sample/train_760.pdf,resume,train
+train_761.pdf,rvl_cdip_sample/train_761.pdf,invoice,train
+train_762.pdf,rvl_cdip_sample/train_762.pdf,letter,train
+train_763.pdf,rvl_cdip_sample/train_763.pdf,resume,train
+train_764.pdf,rvl_cdip_sample/train_764.pdf,budget,train
+train_765.pdf,rvl_cdip_sample/train_765.pdf,handwritten,train
+train_766.pdf,rvl_cdip_sample/train_766.pdf,scientific publication,train
+train_767.pdf,rvl_cdip_sample/train_767.pdf,scientific publication,train
+train_768.pdf,rvl_cdip_sample/train_768.pdf,presentation,train
+train_769.pdf,rvl_cdip_sample/train_769.pdf,scientific publication,train
+train_770.pdf,rvl_cdip_sample/train_770.pdf,news article,train
+train_771.pdf,rvl_cdip_sample/train_771.pdf,scientific report,train
+train_772.pdf,rvl_cdip_sample/train_772.pdf,file folder,train
+train_773.pdf,rvl_cdip_sample/train_773.pdf,form,train
+train_774.pdf,rvl_cdip_sample/train_774.pdf,memo,train
+train_775.pdf,rvl_cdip_sample/train_775.pdf,specification,train
+train_776.pdf,rvl_cdip_sample/train_776.pdf,budget,train
+train_777.pdf,rvl_cdip_sample/train_777.pdf,file folder,train
+train_778.pdf,rvl_cdip_sample/train_778.pdf,specification,train
+train_779.pdf,rvl_cdip_sample/train_779.pdf,scientific publication,train
+train_780.pdf,rvl_cdip_sample/train_780.pdf,letter,train
+train_781.pdf,rvl_cdip_sample/train_781.pdf,budget,train
+train_782.pdf,rvl_cdip_sample/train_782.pdf,handwritten,train
+train_783.pdf,rvl_cdip_sample/train_783.pdf,questionnaire,train
+train_784.pdf,rvl_cdip_sample/train_784.pdf,email,train
+train_785.pdf,rvl_cdip_sample/train_785.pdf,scientific publication,train
+train_786.pdf,rvl_cdip_sample/train_786.pdf,questionnaire,train
+train_787.pdf,rvl_cdip_sample/train_787.pdf,email,train
+train_788.pdf,rvl_cdip_sample/train_788.pdf,handwritten,train
+train_789.pdf,rvl_cdip_sample/train_789.pdf,memo,train
+train_790.pdf,rvl_cdip_sample/train_790.pdf,scientific report,train
+train_791.pdf,rvl_cdip_sample/train_791.pdf,handwritten,train
+train_792.pdf,rvl_cdip_sample/train_792.pdf,letter,train
+train_793.pdf,rvl_cdip_sample/train_793.pdf,presentation,train
+train_794.pdf,rvl_cdip_sample/train_794.pdf,invoice,train
+train_795.pdf,rvl_cdip_sample/train_795.pdf,memo,train
+train_796.pdf,rvl_cdip_sample/train_796.pdf,email,train
+train_797.pdf,rvl_cdip_sample/train_797.pdf,budget,train
+train_798.pdf,rvl_cdip_sample/train_798.pdf,budget,train
+train_799.pdf,rvl_cdip_sample/train_799.pdf,specification,train
+train_800.pdf,rvl_cdip_sample/train_800.pdf,news article,train
+train_801.pdf,rvl_cdip_sample/train_801.pdf,advertisement,train
+train_802.pdf,rvl_cdip_sample/train_802.pdf,resume,train
+train_803.pdf,rvl_cdip_sample/train_803.pdf,file folder,train
+train_804.pdf,rvl_cdip_sample/train_804.pdf,invoice,train
+train_805.pdf,rvl_cdip_sample/train_805.pdf,file folder,train
+train_806.pdf,rvl_cdip_sample/train_806.pdf,memo,train
+train_807.pdf,rvl_cdip_sample/train_807.pdf,questionnaire,train
+train_808.pdf,rvl_cdip_sample/train_808.pdf,specification,train
+train_809.pdf,rvl_cdip_sample/train_809.pdf,resume,train
+train_810.pdf,rvl_cdip_sample/train_810.pdf,form,train
+train_811.pdf,rvl_cdip_sample/train_811.pdf,questionnaire,train
+train_812.pdf,rvl_cdip_sample/train_812.pdf,presentation,train
+train_813.pdf,rvl_cdip_sample/train_813.pdf,budget,train
+train_814.pdf,rvl_cdip_sample/train_814.pdf,form,train
+train_815.pdf,rvl_cdip_sample/train_815.pdf,advertisement,train
+train_816.pdf,rvl_cdip_sample/train_816.pdf,scientific report,train
+train_817.pdf,rvl_cdip_sample/train_817.pdf,questionnaire,train
+train_818.pdf,rvl_cdip_sample/train_818.pdf,letter,train
+train_819.pdf,rvl_cdip_sample/train_819.pdf,questionnaire,train
+train_820.pdf,rvl_cdip_sample/train_820.pdf,budget,train
+train_821.pdf,rvl_cdip_sample/train_821.pdf,scientific publication,train
+train_822.pdf,rvl_cdip_sample/train_822.pdf,memo,train
+train_823.pdf,rvl_cdip_sample/train_823.pdf,invoice,train
+train_824.pdf,rvl_cdip_sample/train_824.pdf,resume,train
+train_825.pdf,rvl_cdip_sample/train_825.pdf,email,train
+train_826.pdf,rvl_cdip_sample/train_826.pdf,news article,train
+train_827.pdf,rvl_cdip_sample/train_827.pdf,budget,train
+train_828.pdf,rvl_cdip_sample/train_828.pdf,invoice,train
+train_829.pdf,rvl_cdip_sample/train_829.pdf,questionnaire,train
+train_830.pdf,rvl_cdip_sample/train_830.pdf,letter,train
+train_831.pdf,rvl_cdip_sample/train_831.pdf,handwritten,train
+train_832.pdf,rvl_cdip_sample/train_832.pdf,scientific publication,train
+train_833.pdf,rvl_cdip_sample/train_833.pdf,advertisement,train
+train_834.pdf,rvl_cdip_sample/train_834.pdf,advertisement,train
+train_835.pdf,rvl_cdip_sample/train_835.pdf,handwritten,train
+train_836.pdf,rvl_cdip_sample/train_836.pdf,specification,train
+train_837.pdf,rvl_cdip_sample/train_837.pdf,memo,train
+train_838.pdf,rvl_cdip_sample/train_838.pdf,letter,train
+train_839.pdf,rvl_cdip_sample/train_839.pdf,presentation,train
+train_840.pdf,rvl_cdip_sample/train_840.pdf,email,train
+train_841.pdf,rvl_cdip_sample/train_841.pdf,memo,train
+train_842.pdf,rvl_cdip_sample/train_842.pdf,form,train
+train_843.pdf,rvl_cdip_sample/train_843.pdf,handwritten,train
+train_844.pdf,rvl_cdip_sample/train_844.pdf,handwritten,train
+train_845.pdf,rvl_cdip_sample/train_845.pdf,scientific publication,train
+train_846.pdf,rvl_cdip_sample/train_846.pdf,memo,train
+train_847.pdf,rvl_cdip_sample/train_847.pdf,resume,train
+train_848.pdf,rvl_cdip_sample/train_848.pdf,advertisement,train
+train_849.pdf,rvl_cdip_sample/train_849.pdf,memo,train
+train_850.pdf,rvl_cdip_sample/train_850.pdf,specification,train
+train_851.pdf,rvl_cdip_sample/train_851.pdf,budget,train
+train_852.pdf,rvl_cdip_sample/train_852.pdf,file folder,train
+train_853.pdf,rvl_cdip_sample/train_853.pdf,handwritten,train
+train_854.pdf,rvl_cdip_sample/train_854.pdf,scientific report,train
+train_855.pdf,rvl_cdip_sample/train_855.pdf,news article,train
+train_856.pdf,rvl_cdip_sample/train_856.pdf,handwritten,train
+train_857.pdf,rvl_cdip_sample/train_857.pdf,memo,train
+train_858.pdf,rvl_cdip_sample/train_858.pdf,invoice,train
+train_859.pdf,rvl_cdip_sample/train_859.pdf,scientific report,train
+train_860.pdf,rvl_cdip_sample/train_860.pdf,news article,train
+train_861.pdf,rvl_cdip_sample/train_861.pdf,specification,train
+train_862.pdf,rvl_cdip_sample/train_862.pdf,email,train
+train_863.pdf,rvl_cdip_sample/train_863.pdf,form,train
+train_864.pdf,rvl_cdip_sample/train_864.pdf,scientific publication,train
+train_865.pdf,rvl_cdip_sample/train_865.pdf,memo,train
+train_866.pdf,rvl_cdip_sample/train_866.pdf,file folder,train
+train_867.pdf,rvl_cdip_sample/train_867.pdf,form,train
+train_868.pdf,rvl_cdip_sample/train_868.pdf,news article,train
+train_869.pdf,rvl_cdip_sample/train_869.pdf,invoice,train
+train_870.pdf,rvl_cdip_sample/train_870.pdf,scientific report,train
+train_871.pdf,rvl_cdip_sample/train_871.pdf,specification,train
+train_872.pdf,rvl_cdip_sample/train_872.pdf,email,train
+train_873.pdf,rvl_cdip_sample/train_873.pdf,email,train
+train_874.pdf,rvl_cdip_sample/train_874.pdf,specification,train
+train_875.pdf,rvl_cdip_sample/train_875.pdf,news article,train
+train_876.pdf,rvl_cdip_sample/train_876.pdf,email,train
+train_877.pdf,rvl_cdip_sample/train_877.pdf,form,train
+train_878.pdf,rvl_cdip_sample/train_878.pdf,email,train
+train_879.pdf,rvl_cdip_sample/train_879.pdf,handwritten,train
+train_880.pdf,rvl_cdip_sample/train_880.pdf,advertisement,train
+train_881.pdf,rvl_cdip_sample/train_881.pdf,advertisement,train
+train_882.pdf,rvl_cdip_sample/train_882.pdf,letter,train
+train_883.pdf,rvl_cdip_sample/train_883.pdf,questionnaire,train
+train_884.pdf,rvl_cdip_sample/train_884.pdf,email,train
+train_885.pdf,rvl_cdip_sample/train_885.pdf,news article,train
+train_886.pdf,rvl_cdip_sample/train_886.pdf,questionnaire,train
+train_887.pdf,rvl_cdip_sample/train_887.pdf,news article,train
+train_888.pdf,rvl_cdip_sample/train_888.pdf,memo,train
+train_889.pdf,rvl_cdip_sample/train_889.pdf,presentation,train
+train_890.pdf,rvl_cdip_sample/train_890.pdf,questionnaire,train
+train_891.pdf,rvl_cdip_sample/train_891.pdf,scientific publication,train
+train_892.pdf,rvl_cdip_sample/train_892.pdf,specification,train
+train_893.pdf,rvl_cdip_sample/train_893.pdf,specification,train
+train_894.pdf,rvl_cdip_sample/train_894.pdf,email,train
+train_895.pdf,rvl_cdip_sample/train_895.pdf,presentation,train
+train_896.pdf,rvl_cdip_sample/train_896.pdf,specification,train
+train_897.pdf,rvl_cdip_sample/train_897.pdf,invoice,train
+train_898.pdf,rvl_cdip_sample/train_898.pdf,questionnaire,train
+train_899.pdf,rvl_cdip_sample/train_899.pdf,scientific report,train
+train_900.pdf,rvl_cdip_sample/train_900.pdf,presentation,train
+train_901.pdf,rvl_cdip_sample/train_901.pdf,letter,train
+train_902.pdf,rvl_cdip_sample/train_902.pdf,specification,train
+train_903.pdf,rvl_cdip_sample/train_903.pdf,resume,train
+train_904.pdf,rvl_cdip_sample/train_904.pdf,letter,train
+train_905.pdf,rvl_cdip_sample/train_905.pdf,specification,train
+train_906.pdf,rvl_cdip_sample/train_906.pdf,resume,train
+train_907.pdf,rvl_cdip_sample/train_907.pdf,memo,train
+train_908.pdf,rvl_cdip_sample/train_908.pdf,presentation,train
+train_909.pdf,rvl_cdip_sample/train_909.pdf,advertisement,train
+train_910.pdf,rvl_cdip_sample/train_910.pdf,letter,train
+train_911.pdf,rvl_cdip_sample/train_911.pdf,advertisement,train
+train_912.pdf,rvl_cdip_sample/train_912.pdf,email,train
+train_913.pdf,rvl_cdip_sample/train_913.pdf,scientific report,train
+train_914.pdf,rvl_cdip_sample/train_914.pdf,budget,train
+train_915.pdf,rvl_cdip_sample/train_915.pdf,budget,train
+train_916.pdf,rvl_cdip_sample/train_916.pdf,letter,train
+train_917.pdf,rvl_cdip_sample/train_917.pdf,presentation,train
+train_918.pdf,rvl_cdip_sample/train_918.pdf,news article,train
+train_919.pdf,rvl_cdip_sample/train_919.pdf,scientific report,train
+train_920.pdf,rvl_cdip_sample/train_920.pdf,presentation,train
+train_921.pdf,rvl_cdip_sample/train_921.pdf,handwritten,train
+train_922.pdf,rvl_cdip_sample/train_922.pdf,invoice,train
+train_923.pdf,rvl_cdip_sample/train_923.pdf,letter,train
+train_924.pdf,rvl_cdip_sample/train_924.pdf,news article,train
+train_925.pdf,rvl_cdip_sample/train_925.pdf,scientific report,train
+train_926.pdf,rvl_cdip_sample/train_926.pdf,letter,train
+train_927.pdf,rvl_cdip_sample/train_927.pdf,email,train
+train_928.pdf,rvl_cdip_sample/train_928.pdf,email,train
+train_929.pdf,rvl_cdip_sample/train_929.pdf,email,train
+train_930.pdf,rvl_cdip_sample/train_930.pdf,specification,train
+train_931.pdf,rvl_cdip_sample/train_931.pdf,news article,train
+train_932.pdf,rvl_cdip_sample/train_932.pdf,specification,train
+train_933.pdf,rvl_cdip_sample/train_933.pdf,budget,train
+train_934.pdf,rvl_cdip_sample/train_934.pdf,handwritten,train
+train_935.pdf,rvl_cdip_sample/train_935.pdf,handwritten,train
+train_936.pdf,rvl_cdip_sample/train_936.pdf,form,train
+train_937.pdf,rvl_cdip_sample/train_937.pdf,form,train
+train_938.pdf,rvl_cdip_sample/train_938.pdf,specification,train
+train_939.pdf,rvl_cdip_sample/train_939.pdf,resume,train
+train_940.pdf,rvl_cdip_sample/train_940.pdf,handwritten,train
+train_941.pdf,rvl_cdip_sample/train_941.pdf,letter,train
+train_942.pdf,rvl_cdip_sample/train_942.pdf,scientific publication,train
+train_943.pdf,rvl_cdip_sample/train_943.pdf,specification,train
+train_944.pdf,rvl_cdip_sample/train_944.pdf,memo,train
+train_945.pdf,rvl_cdip_sample/train_945.pdf,invoice,train
+train_946.pdf,rvl_cdip_sample/train_946.pdf,file folder,train
+train_947.pdf,rvl_cdip_sample/train_947.pdf,handwritten,train
+train_948.pdf,rvl_cdip_sample/train_948.pdf,file folder,train
+train_949.pdf,rvl_cdip_sample/train_949.pdf,letter,train
+train_950.pdf,rvl_cdip_sample/train_950.pdf,scientific publication,train
+train_951.pdf,rvl_cdip_sample/train_951.pdf,form,train
+train_952.pdf,rvl_cdip_sample/train_952.pdf,specification,train
+train_953.pdf,rvl_cdip_sample/train_953.pdf,presentation,train
+train_954.pdf,rvl_cdip_sample/train_954.pdf,questionnaire,train
+train_955.pdf,rvl_cdip_sample/train_955.pdf,presentation,train
+train_956.pdf,rvl_cdip_sample/train_956.pdf,email,train
+train_957.pdf,rvl_cdip_sample/train_957.pdf,letter,train
+train_958.pdf,rvl_cdip_sample/train_958.pdf,memo,train
+train_959.pdf,rvl_cdip_sample/train_959.pdf,advertisement,train
+train_960.pdf,rvl_cdip_sample/train_960.pdf,budget,train
+train_961.pdf,rvl_cdip_sample/train_961.pdf,resume,train
+train_962.pdf,rvl_cdip_sample/train_962.pdf,presentation,train
+train_963.pdf,rvl_cdip_sample/train_963.pdf,email,train
+train_964.pdf,rvl_cdip_sample/train_964.pdf,letter,train
+train_965.pdf,rvl_cdip_sample/train_965.pdf,scientific report,train
+train_966.pdf,rvl_cdip_sample/train_966.pdf,invoice,train
+train_967.pdf,rvl_cdip_sample/train_967.pdf,scientific publication,train
+train_968.pdf,rvl_cdip_sample/train_968.pdf,scientific report,train
+train_969.pdf,rvl_cdip_sample/train_969.pdf,budget,train
+train_970.pdf,rvl_cdip_sample/train_970.pdf,scientific report,train
+train_971.pdf,rvl_cdip_sample/train_971.pdf,questionnaire,train
+train_972.pdf,rvl_cdip_sample/train_972.pdf,memo,train
+train_973.pdf,rvl_cdip_sample/train_973.pdf,email,train
+train_974.pdf,rvl_cdip_sample/train_974.pdf,presentation,train
+train_975.pdf,rvl_cdip_sample/train_975.pdf,advertisement,train
+train_976.pdf,rvl_cdip_sample/train_976.pdf,memo,train
+train_977.pdf,rvl_cdip_sample/train_977.pdf,questionnaire,train
+train_978.pdf,rvl_cdip_sample/train_978.pdf,form,train
+train_979.pdf,rvl_cdip_sample/train_979.pdf,questionnaire,train
+train_980.pdf,rvl_cdip_sample/train_980.pdf,letter,train
+train_981.pdf,rvl_cdip_sample/train_981.pdf,budget,train
+train_982.pdf,rvl_cdip_sample/train_982.pdf,resume,train
+train_983.pdf,rvl_cdip_sample/train_983.pdf,specification,train
+train_984.pdf,rvl_cdip_sample/train_984.pdf,file folder,train
+train_985.pdf,rvl_cdip_sample/train_985.pdf,specification,train
+train_986.pdf,rvl_cdip_sample/train_986.pdf,scientific report,train
+train_987.pdf,rvl_cdip_sample/train_987.pdf,scientific report,train
+train_988.pdf,rvl_cdip_sample/train_988.pdf,presentation,train
+train_989.pdf,rvl_cdip_sample/train_989.pdf,invoice,train
+train_990.pdf,rvl_cdip_sample/train_990.pdf,letter,train
+train_991.pdf,rvl_cdip_sample/train_991.pdf,budget,train
+train_992.pdf,rvl_cdip_sample/train_992.pdf,budget,train
+train_993.pdf,rvl_cdip_sample/train_993.pdf,budget,train
+train_994.pdf,rvl_cdip_sample/train_994.pdf,handwritten,train
+train_995.pdf,rvl_cdip_sample/train_995.pdf,resume,train
+train_996.pdf,rvl_cdip_sample/train_996.pdf,email,train
+train_997.pdf,rvl_cdip_sample/train_997.pdf,form,train
+train_998.pdf,rvl_cdip_sample/train_998.pdf,budget,train
+train_999.pdf,rvl_cdip_sample/train_999.pdf,questionnaire,train
+val_0.pdf,rvl_cdip_sample/val_0.pdf,memo,val
+val_1.pdf,rvl_cdip_sample/val_1.pdf,budget,val
+val_2.pdf,rvl_cdip_sample/val_2.pdf,scientific publication,val
+val_3.pdf,rvl_cdip_sample/val_3.pdf,scientific publication,val
+val_4.pdf,rvl_cdip_sample/val_4.pdf,scientific publication,val
+val_5.pdf,rvl_cdip_sample/val_5.pdf,questionnaire,val
+val_6.pdf,rvl_cdip_sample/val_6.pdf,scientific publication,val
+val_7.pdf,rvl_cdip_sample/val_7.pdf,presentation,val
+val_8.pdf,rvl_cdip_sample/val_8.pdf,scientific report,val
+val_9.pdf,rvl_cdip_sample/val_9.pdf,budget,val
+val_10.pdf,rvl_cdip_sample/val_10.pdf,letter,val
+val_11.pdf,rvl_cdip_sample/val_11.pdf,budget,val
+val_12.pdf,rvl_cdip_sample/val_12.pdf,advertisement,val
+val_13.pdf,rvl_cdip_sample/val_13.pdf,letter,val
+val_14.pdf,rvl_cdip_sample/val_14.pdf,questionnaire,val
+val_15.pdf,rvl_cdip_sample/val_15.pdf,news article,val
+val_16.pdf,rvl_cdip_sample/val_16.pdf,questionnaire,val
+val_17.pdf,rvl_cdip_sample/val_17.pdf,questionnaire,val
+val_18.pdf,rvl_cdip_sample/val_18.pdf,questionnaire,val
+val_19.pdf,rvl_cdip_sample/val_19.pdf,questionnaire,val
+val_20.pdf,rvl_cdip_sample/val_20.pdf,form,val
+val_21.pdf,rvl_cdip_sample/val_21.pdf,letter,val
+val_22.pdf,rvl_cdip_sample/val_22.pdf,form,val
+val_23.pdf,rvl_cdip_sample/val_23.pdf,file folder,val
+val_24.pdf,rvl_cdip_sample/val_24.pdf,news article,val
+val_25.pdf,rvl_cdip_sample/val_25.pdf,file folder,val
+val_26.pdf,rvl_cdip_sample/val_26.pdf,handwritten,val
+val_27.pdf,rvl_cdip_sample/val_27.pdf,presentation,val
+val_28.pdf,rvl_cdip_sample/val_28.pdf,handwritten,val
+val_29.pdf,rvl_cdip_sample/val_29.pdf,presentation,val
+val_30.pdf,rvl_cdip_sample/val_30.pdf,presentation,val
+val_31.pdf,rvl_cdip_sample/val_31.pdf,resume,val
+val_32.pdf,rvl_cdip_sample/val_32.pdf,scientific report,val
+val_33.pdf,rvl_cdip_sample/val_33.pdf,scientific report,val
+val_34.pdf,rvl_cdip_sample/val_34.pdf,email,val
+val_35.pdf,rvl_cdip_sample/val_35.pdf,advertisement,val
+val_36.pdf,rvl_cdip_sample/val_36.pdf,scientific report,val
+val_37.pdf,rvl_cdip_sample/val_37.pdf,scientific report,val
+val_38.pdf,rvl_cdip_sample/val_38.pdf,form,val
+val_39.pdf,rvl_cdip_sample/val_39.pdf,presentation,val
+val_40.pdf,rvl_cdip_sample/val_40.pdf,advertisement,val
+val_41.pdf,rvl_cdip_sample/val_41.pdf,memo,val
+val_42.pdf,rvl_cdip_sample/val_42.pdf,handwritten,val
+val_43.pdf,rvl_cdip_sample/val_43.pdf,resume,val
+val_44.pdf,rvl_cdip_sample/val_44.pdf,invoice,val
+val_45.pdf,rvl_cdip_sample/val_45.pdf,presentation,val
+val_46.pdf,rvl_cdip_sample/val_46.pdf,advertisement,val
+val_47.pdf,rvl_cdip_sample/val_47.pdf,presentation,val
+val_48.pdf,rvl_cdip_sample/val_48.pdf,handwritten,val
+val_49.pdf,rvl_cdip_sample/val_49.pdf,questionnaire,val
+val_50.pdf,rvl_cdip_sample/val_50.pdf,scientific publication,val
+val_51.pdf,rvl_cdip_sample/val_51.pdf,email,val
+val_52.pdf,rvl_cdip_sample/val_52.pdf,questionnaire,val
+val_53.pdf,rvl_cdip_sample/val_53.pdf,scientific report,val
+val_54.pdf,rvl_cdip_sample/val_54.pdf,news article,val
+val_55.pdf,rvl_cdip_sample/val_55.pdf,letter,val
+val_56.pdf,rvl_cdip_sample/val_56.pdf,resume,val
+val_57.pdf,rvl_cdip_sample/val_57.pdf,file folder,val
+val_58.pdf,rvl_cdip_sample/val_58.pdf,budget,val
+val_59.pdf,rvl_cdip_sample/val_59.pdf,letter,val
+val_60.pdf,rvl_cdip_sample/val_60.pdf,questionnaire,val
+val_61.pdf,rvl_cdip_sample/val_61.pdf,specification,val
+val_62.pdf,rvl_cdip_sample/val_62.pdf,resume,val
+val_63.pdf,rvl_cdip_sample/val_63.pdf,resume,val
+val_64.pdf,rvl_cdip_sample/val_64.pdf,scientific publication,val
+val_65.pdf,rvl_cdip_sample/val_65.pdf,form,val
+val_66.pdf,rvl_cdip_sample/val_66.pdf,news article,val
+val_67.pdf,rvl_cdip_sample/val_67.pdf,specification,val
+val_68.pdf,rvl_cdip_sample/val_68.pdf,questionnaire,val
+val_69.pdf,rvl_cdip_sample/val_69.pdf,memo,val
+val_70.pdf,rvl_cdip_sample/val_70.pdf,form,val
+val_71.pdf,rvl_cdip_sample/val_71.pdf,budget,val
+val_72.pdf,rvl_cdip_sample/val_72.pdf,presentation,val
+val_73.pdf,rvl_cdip_sample/val_73.pdf,news article,val
+val_74.pdf,rvl_cdip_sample/val_74.pdf,advertisement,val
+val_75.pdf,rvl_cdip_sample/val_75.pdf,specification,val
+val_76.pdf,rvl_cdip_sample/val_76.pdf,presentation,val
+val_77.pdf,rvl_cdip_sample/val_77.pdf,budget,val
+val_78.pdf,rvl_cdip_sample/val_78.pdf,scientific report,val
+val_79.pdf,rvl_cdip_sample/val_79.pdf,advertisement,val
+val_80.pdf,rvl_cdip_sample/val_80.pdf,resume,val
+val_81.pdf,rvl_cdip_sample/val_81.pdf,news article,val
+val_82.pdf,rvl_cdip_sample/val_82.pdf,questionnaire,val
+val_83.pdf,rvl_cdip_sample/val_83.pdf,scientific report,val
+val_84.pdf,rvl_cdip_sample/val_84.pdf,budget,val
+val_85.pdf,rvl_cdip_sample/val_85.pdf,file folder,val
+val_86.pdf,rvl_cdip_sample/val_86.pdf,form,val
+val_87.pdf,rvl_cdip_sample/val_87.pdf,memo,val
+val_88.pdf,rvl_cdip_sample/val_88.pdf,email,val
+val_89.pdf,rvl_cdip_sample/val_89.pdf,handwritten,val
+val_90.pdf,rvl_cdip_sample/val_90.pdf,email,val
+val_91.pdf,rvl_cdip_sample/val_91.pdf,file folder,val
+val_92.pdf,rvl_cdip_sample/val_92.pdf,file folder,val
+val_93.pdf,rvl_cdip_sample/val_93.pdf,presentation,val
+val_94.pdf,rvl_cdip_sample/val_94.pdf,scientific publication,val
+val_95.pdf,rvl_cdip_sample/val_95.pdf,presentation,val
+val_96.pdf,rvl_cdip_sample/val_96.pdf,memo,val
+val_97.pdf,rvl_cdip_sample/val_97.pdf,specification,val
+val_98.pdf,rvl_cdip_sample/val_98.pdf,invoice,val
+val_99.pdf,rvl_cdip_sample/val_99.pdf,scientific publication,val
+val_100.pdf,rvl_cdip_sample/val_100.pdf,questionnaire,val
+val_101.pdf,rvl_cdip_sample/val_101.pdf,scientific publication,val
+val_102.pdf,rvl_cdip_sample/val_102.pdf,budget,val
+val_103.pdf,rvl_cdip_sample/val_103.pdf,file folder,val
+val_104.pdf,rvl_cdip_sample/val_104.pdf,handwritten,val
+val_105.pdf,rvl_cdip_sample/val_105.pdf,news article,val
+val_106.pdf,rvl_cdip_sample/val_106.pdf,specification,val
+val_107.pdf,rvl_cdip_sample/val_107.pdf,letter,val
+val_108.pdf,rvl_cdip_sample/val_108.pdf,file folder,val
+val_109.pdf,rvl_cdip_sample/val_109.pdf,file folder,val
+val_110.pdf,rvl_cdip_sample/val_110.pdf,resume,val
+val_111.pdf,rvl_cdip_sample/val_111.pdf,presentation,val
+val_112.pdf,rvl_cdip_sample/val_112.pdf,form,val
+val_113.pdf,rvl_cdip_sample/val_113.pdf,advertisement,val
+val_114.pdf,rvl_cdip_sample/val_114.pdf,scientific publication,val
+val_115.pdf,rvl_cdip_sample/val_115.pdf,scientific report,val
+val_116.pdf,rvl_cdip_sample/val_116.pdf,handwritten,val
+val_117.pdf,rvl_cdip_sample/val_117.pdf,file folder,val
+val_118.pdf,rvl_cdip_sample/val_118.pdf,file folder,val
+val_119.pdf,rvl_cdip_sample/val_119.pdf,handwritten,val
+val_120.pdf,rvl_cdip_sample/val_120.pdf,resume,val
+val_121.pdf,rvl_cdip_sample/val_121.pdf,letter,val
+val_122.pdf,rvl_cdip_sample/val_122.pdf,presentation,val
+val_123.pdf,rvl_cdip_sample/val_123.pdf,invoice,val
+val_124.pdf,rvl_cdip_sample/val_124.pdf,form,val
+val_125.pdf,rvl_cdip_sample/val_125.pdf,handwritten,val
+val_126.pdf,rvl_cdip_sample/val_126.pdf,presentation,val
+val_127.pdf,rvl_cdip_sample/val_127.pdf,news article,val
+val_128.pdf,rvl_cdip_sample/val_128.pdf,advertisement,val
+val_129.pdf,rvl_cdip_sample/val_129.pdf,email,val
+val_130.pdf,rvl_cdip_sample/val_130.pdf,scientific publication,val
+val_131.pdf,rvl_cdip_sample/val_131.pdf,invoice,val
+val_132.pdf,rvl_cdip_sample/val_132.pdf,memo,val
+val_133.pdf,rvl_cdip_sample/val_133.pdf,presentation,val
+val_134.pdf,rvl_cdip_sample/val_134.pdf,presentation,val
+val_135.pdf,rvl_cdip_sample/val_135.pdf,memo,val
+val_136.pdf,rvl_cdip_sample/val_136.pdf,questionnaire,val
+val_137.pdf,rvl_cdip_sample/val_137.pdf,specification,val
+val_138.pdf,rvl_cdip_sample/val_138.pdf,news article,val
+val_139.pdf,rvl_cdip_sample/val_139.pdf,advertisement,val
+val_140.pdf,rvl_cdip_sample/val_140.pdf,budget,val
+val_141.pdf,rvl_cdip_sample/val_141.pdf,presentation,val
+val_142.pdf,rvl_cdip_sample/val_142.pdf,scientific publication,val
+val_143.pdf,rvl_cdip_sample/val_143.pdf,memo,val
+val_144.pdf,rvl_cdip_sample/val_144.pdf,resume,val
+val_145.pdf,rvl_cdip_sample/val_145.pdf,questionnaire,val
+val_146.pdf,rvl_cdip_sample/val_146.pdf,memo,val
+val_147.pdf,rvl_cdip_sample/val_147.pdf,handwritten,val
+val_148.pdf,rvl_cdip_sample/val_148.pdf,questionnaire,val
+val_149.pdf,rvl_cdip_sample/val_149.pdf,scientific report,val
+val_150.pdf,rvl_cdip_sample/val_150.pdf,file folder,val
+val_151.pdf,rvl_cdip_sample/val_151.pdf,budget,val
+val_152.pdf,rvl_cdip_sample/val_152.pdf,presentation,val
+val_153.pdf,rvl_cdip_sample/val_153.pdf,advertisement,val
+val_154.pdf,rvl_cdip_sample/val_154.pdf,invoice,val
+val_155.pdf,rvl_cdip_sample/val_155.pdf,resume,val
+val_156.pdf,rvl_cdip_sample/val_156.pdf,scientific report,val
+val_157.pdf,rvl_cdip_sample/val_157.pdf,questionnaire,val
+val_158.pdf,rvl_cdip_sample/val_158.pdf,scientific publication,val
+val_159.pdf,rvl_cdip_sample/val_159.pdf,file folder,val
+val_160.pdf,rvl_cdip_sample/val_160.pdf,memo,val
+val_161.pdf,rvl_cdip_sample/val_161.pdf,resume,val
+val_162.pdf,rvl_cdip_sample/val_162.pdf,advertisement,val
+val_163.pdf,rvl_cdip_sample/val_163.pdf,budget,val
+val_164.pdf,rvl_cdip_sample/val_164.pdf,news article,val
+val_165.pdf,rvl_cdip_sample/val_165.pdf,specification,val
+val_166.pdf,rvl_cdip_sample/val_166.pdf,email,val
+val_167.pdf,rvl_cdip_sample/val_167.pdf,questionnaire,val
+val_168.pdf,rvl_cdip_sample/val_168.pdf,questionnaire,val
+val_169.pdf,rvl_cdip_sample/val_169.pdf,news article,val
+val_170.pdf,rvl_cdip_sample/val_170.pdf,resume,val
+val_171.pdf,rvl_cdip_sample/val_171.pdf,advertisement,val
+val_172.pdf,rvl_cdip_sample/val_172.pdf,resume,val
+val_173.pdf,rvl_cdip_sample/val_173.pdf,handwritten,val
+val_174.pdf,rvl_cdip_sample/val_174.pdf,invoice,val
+val_175.pdf,rvl_cdip_sample/val_175.pdf,budget,val
+val_176.pdf,rvl_cdip_sample/val_176.pdf,handwritten,val
+val_177.pdf,rvl_cdip_sample/val_177.pdf,advertisement,val
+val_178.pdf,rvl_cdip_sample/val_178.pdf,email,val
+val_179.pdf,rvl_cdip_sample/val_179.pdf,budget,val
+val_180.pdf,rvl_cdip_sample/val_180.pdf,budget,val
+val_181.pdf,rvl_cdip_sample/val_181.pdf,email,val
+val_182.pdf,rvl_cdip_sample/val_182.pdf,scientific report,val
+val_183.pdf,rvl_cdip_sample/val_183.pdf,questionnaire,val
+val_184.pdf,rvl_cdip_sample/val_184.pdf,news article,val
+val_185.pdf,rvl_cdip_sample/val_185.pdf,scientific report,val
+val_186.pdf,rvl_cdip_sample/val_186.pdf,advertisement,val
+val_187.pdf,rvl_cdip_sample/val_187.pdf,news article,val
+val_188.pdf,rvl_cdip_sample/val_188.pdf,invoice,val
+val_189.pdf,rvl_cdip_sample/val_189.pdf,resume,val
+val_190.pdf,rvl_cdip_sample/val_190.pdf,invoice,val
+val_191.pdf,rvl_cdip_sample/val_191.pdf,scientific publication,val
+val_192.pdf,rvl_cdip_sample/val_192.pdf,advertisement,val
+val_193.pdf,rvl_cdip_sample/val_193.pdf,presentation,val
+val_194.pdf,rvl_cdip_sample/val_194.pdf,presentation,val
+val_195.pdf,rvl_cdip_sample/val_195.pdf,invoice,val
+val_196.pdf,rvl_cdip_sample/val_196.pdf,invoice,val
+val_197.pdf,rvl_cdip_sample/val_197.pdf,questionnaire,val
+val_198.pdf,rvl_cdip_sample/val_198.pdf,form,val
+val_199.pdf,rvl_cdip_sample/val_199.pdf,scientific publication,val
+val_200.pdf,rvl_cdip_sample/val_200.pdf,scientific publication,val
+val_201.pdf,rvl_cdip_sample/val_201.pdf,file folder,val
+val_202.pdf,rvl_cdip_sample/val_202.pdf,scientific publication,val
+val_203.pdf,rvl_cdip_sample/val_203.pdf,memo,val
+val_204.pdf,rvl_cdip_sample/val_204.pdf,invoice,val
+val_205.pdf,rvl_cdip_sample/val_205.pdf,memo,val
+val_206.pdf,rvl_cdip_sample/val_206.pdf,specification,val
+val_207.pdf,rvl_cdip_sample/val_207.pdf,invoice,val
+val_208.pdf,rvl_cdip_sample/val_208.pdf,form,val
+val_209.pdf,rvl_cdip_sample/val_209.pdf,questionnaire,val
+val_210.pdf,rvl_cdip_sample/val_210.pdf,specification,val
+val_211.pdf,rvl_cdip_sample/val_211.pdf,email,val
+val_212.pdf,rvl_cdip_sample/val_212.pdf,news article,val
+val_213.pdf,rvl_cdip_sample/val_213.pdf,file folder,val
+val_214.pdf,rvl_cdip_sample/val_214.pdf,news article,val
+val_215.pdf,rvl_cdip_sample/val_215.pdf,letter,val
+val_216.pdf,rvl_cdip_sample/val_216.pdf,form,val
+val_217.pdf,rvl_cdip_sample/val_217.pdf,presentation,val
+val_218.pdf,rvl_cdip_sample/val_218.pdf,scientific publication,val
+val_219.pdf,rvl_cdip_sample/val_219.pdf,file folder,val
+val_220.pdf,rvl_cdip_sample/val_220.pdf,scientific report,val
+val_221.pdf,rvl_cdip_sample/val_221.pdf,handwritten,val
+val_222.pdf,rvl_cdip_sample/val_222.pdf,questionnaire,val
+val_223.pdf,rvl_cdip_sample/val_223.pdf,scientific report,val
+val_224.pdf,rvl_cdip_sample/val_224.pdf,specification,val
+val_225.pdf,rvl_cdip_sample/val_225.pdf,file folder,val
+val_226.pdf,rvl_cdip_sample/val_226.pdf,resume,val
+val_227.pdf,rvl_cdip_sample/val_227.pdf,budget,val
+val_228.pdf,rvl_cdip_sample/val_228.pdf,file folder,val
+val_229.pdf,rvl_cdip_sample/val_229.pdf,letter,val
+val_230.pdf,rvl_cdip_sample/val_230.pdf,specification,val
+val_231.pdf,rvl_cdip_sample/val_231.pdf,advertisement,val
+val_232.pdf,rvl_cdip_sample/val_232.pdf,memo,val
+val_233.pdf,rvl_cdip_sample/val_233.pdf,form,val
+val_234.pdf,rvl_cdip_sample/val_234.pdf,resume,val
+val_235.pdf,rvl_cdip_sample/val_235.pdf,form,val
+val_236.pdf,rvl_cdip_sample/val_236.pdf,scientific report,val
+val_237.pdf,rvl_cdip_sample/val_237.pdf,handwritten,val
+val_238.pdf,rvl_cdip_sample/val_238.pdf,scientific report,val
+val_239.pdf,rvl_cdip_sample/val_239.pdf,file folder,val
+val_240.pdf,rvl_cdip_sample/val_240.pdf,handwritten,val
+val_241.pdf,rvl_cdip_sample/val_241.pdf,scientific publication,val
+val_242.pdf,rvl_cdip_sample/val_242.pdf,form,val
+val_243.pdf,rvl_cdip_sample/val_243.pdf,resume,val
+val_244.pdf,rvl_cdip_sample/val_244.pdf,form,val
+val_245.pdf,rvl_cdip_sample/val_245.pdf,handwritten,val
+val_246.pdf,rvl_cdip_sample/val_246.pdf,news article,val
+val_247.pdf,rvl_cdip_sample/val_247.pdf,handwritten,val
+val_248.pdf,rvl_cdip_sample/val_248.pdf,form,val
+val_249.pdf,rvl_cdip_sample/val_249.pdf,questionnaire,val
+test_0.pdf,rvl_cdip_sample/test_0.pdf,scientific report,test
+test_1.pdf,rvl_cdip_sample/test_1.pdf,form,test
+test_2.pdf,rvl_cdip_sample/test_2.pdf,resume,test
+test_3.pdf,rvl_cdip_sample/test_3.pdf,scientific report,test
+test_4.pdf,rvl_cdip_sample/test_4.pdf,invoice,test
+test_5.pdf,rvl_cdip_sample/test_5.pdf,invoice,test
+test_6.pdf,rvl_cdip_sample/test_6.pdf,file folder,test
+test_7.pdf,rvl_cdip_sample/test_7.pdf,form,test
+test_8.pdf,rvl_cdip_sample/test_8.pdf,scientific report,test
+test_9.pdf,rvl_cdip_sample/test_9.pdf,questionnaire,test
+test_10.pdf,rvl_cdip_sample/test_10.pdf,scientific report,test
+test_11.pdf,rvl_cdip_sample/test_11.pdf,handwritten,test
+test_12.pdf,rvl_cdip_sample/test_12.pdf,news article,test
+test_13.pdf,rvl_cdip_sample/test_13.pdf,budget,test
+test_14.pdf,rvl_cdip_sample/test_14.pdf,file folder,test
+test_15.pdf,rvl_cdip_sample/test_15.pdf,scientific publication,test
+test_16.pdf,rvl_cdip_sample/test_16.pdf,presentation,test
+test_17.pdf,rvl_cdip_sample/test_17.pdf,resume,test
+test_18.pdf,rvl_cdip_sample/test_18.pdf,budget,test
+test_19.pdf,rvl_cdip_sample/test_19.pdf,budget,test
+test_20.pdf,rvl_cdip_sample/test_20.pdf,specification,test
+test_21.pdf,rvl_cdip_sample/test_21.pdf,presentation,test
+test_22.pdf,rvl_cdip_sample/test_22.pdf,handwritten,test
+test_23.pdf,rvl_cdip_sample/test_23.pdf,budget,test
+test_24.pdf,rvl_cdip_sample/test_24.pdf,file folder,test
+test_25.pdf,rvl_cdip_sample/test_25.pdf,email,test
+test_26.pdf,rvl_cdip_sample/test_26.pdf,news article,test
+test_27.pdf,rvl_cdip_sample/test_27.pdf,file folder,test
+test_28.pdf,rvl_cdip_sample/test_28.pdf,form,test
+test_29.pdf,rvl_cdip_sample/test_29.pdf,handwritten,test
+test_30.pdf,rvl_cdip_sample/test_30.pdf,handwritten,test
+test_31.pdf,rvl_cdip_sample/test_31.pdf,invoice,test
+test_32.pdf,rvl_cdip_sample/test_32.pdf,handwritten,test
+test_33.pdf,rvl_cdip_sample/test_33.pdf,budget,test
+test_34.pdf,rvl_cdip_sample/test_34.pdf,scientific publication,test
+test_35.pdf,rvl_cdip_sample/test_35.pdf,budget,test
+test_36.pdf,rvl_cdip_sample/test_36.pdf,letter,test
+test_37.pdf,rvl_cdip_sample/test_37.pdf,file folder,test
+test_38.pdf,rvl_cdip_sample/test_38.pdf,advertisement,test
+test_39.pdf,rvl_cdip_sample/test_39.pdf,advertisement,test
+test_40.pdf,rvl_cdip_sample/test_40.pdf,specification,test
+test_41.pdf,rvl_cdip_sample/test_41.pdf,email,test
+test_42.pdf,rvl_cdip_sample/test_42.pdf,email,test
+test_43.pdf,rvl_cdip_sample/test_43.pdf,memo,test
+test_44.pdf,rvl_cdip_sample/test_44.pdf,scientific publication,test
+test_45.pdf,rvl_cdip_sample/test_45.pdf,form,test
+test_46.pdf,rvl_cdip_sample/test_46.pdf,email,test
+test_47.pdf,rvl_cdip_sample/test_47.pdf,news article,test
+test_48.pdf,rvl_cdip_sample/test_48.pdf,memo,test
+test_49.pdf,rvl_cdip_sample/test_49.pdf,specification,test
+test_50.pdf,rvl_cdip_sample/test_50.pdf,letter,test
+test_51.pdf,rvl_cdip_sample/test_51.pdf,budget,test
+test_52.pdf,rvl_cdip_sample/test_52.pdf,scientific publication,test
+test_53.pdf,rvl_cdip_sample/test_53.pdf,letter,test
+test_54.pdf,rvl_cdip_sample/test_54.pdf,budget,test
+test_55.pdf,rvl_cdip_sample/test_55.pdf,memo,test
+test_56.pdf,rvl_cdip_sample/test_56.pdf,handwritten,test
+test_57.pdf,rvl_cdip_sample/test_57.pdf,scientific report,test
+test_58.pdf,rvl_cdip_sample/test_58.pdf,scientific report,test
+test_59.pdf,rvl_cdip_sample/test_59.pdf,news article,test
+test_60.pdf,rvl_cdip_sample/test_60.pdf,resume,test
+test_61.pdf,rvl_cdip_sample/test_61.pdf,advertisement,test
+test_62.pdf,rvl_cdip_sample/test_62.pdf,advertisement,test
+test_63.pdf,rvl_cdip_sample/test_63.pdf,presentation,test
+test_64.pdf,rvl_cdip_sample/test_64.pdf,budget,test
+test_65.pdf,rvl_cdip_sample/test_65.pdf,scientific report,test
+test_66.pdf,rvl_cdip_sample/test_66.pdf,handwritten,test
+test_67.pdf,rvl_cdip_sample/test_67.pdf,budget,test
+test_68.pdf,rvl_cdip_sample/test_68.pdf,form,test
+test_69.pdf,rvl_cdip_sample/test_69.pdf,file folder,test
+test_70.pdf,rvl_cdip_sample/test_70.pdf,invoice,test
+test_71.pdf,rvl_cdip_sample/test_71.pdf,budget,test
+test_72.pdf,rvl_cdip_sample/test_72.pdf,letter,test
+test_73.pdf,rvl_cdip_sample/test_73.pdf,presentation,test
+test_74.pdf,rvl_cdip_sample/test_74.pdf,resume,test
+test_75.pdf,rvl_cdip_sample/test_75.pdf,questionnaire,test
+test_76.pdf,rvl_cdip_sample/test_76.pdf,letter,test
+test_77.pdf,rvl_cdip_sample/test_77.pdf,resume,test
+test_78.pdf,rvl_cdip_sample/test_78.pdf,budget,test
+test_79.pdf,rvl_cdip_sample/test_79.pdf,scientific report,test
+test_80.pdf,rvl_cdip_sample/test_80.pdf,file folder,test
+test_81.pdf,rvl_cdip_sample/test_81.pdf,resume,test
+test_82.pdf,rvl_cdip_sample/test_82.pdf,scientific report,test
+test_83.pdf,rvl_cdip_sample/test_83.pdf,scientific publication,test
+test_84.pdf,rvl_cdip_sample/test_84.pdf,letter,test
+test_85.pdf,rvl_cdip_sample/test_85.pdf,memo,test
+test_86.pdf,rvl_cdip_sample/test_86.pdf,advertisement,test
+test_87.pdf,rvl_cdip_sample/test_87.pdf,questionnaire,test
+test_88.pdf,rvl_cdip_sample/test_88.pdf,resume,test
+test_89.pdf,rvl_cdip_sample/test_89.pdf,questionnaire,test
+test_90.pdf,rvl_cdip_sample/test_90.pdf,resume,test
+test_91.pdf,rvl_cdip_sample/test_91.pdf,letter,test
+test_92.pdf,rvl_cdip_sample/test_92.pdf,questionnaire,test
+test_93.pdf,rvl_cdip_sample/test_93.pdf,invoice,test
+test_94.pdf,rvl_cdip_sample/test_94.pdf,questionnaire,test
+test_95.pdf,rvl_cdip_sample/test_95.pdf,presentation,test
+test_96.pdf,rvl_cdip_sample/test_96.pdf,form,test
+test_97.pdf,rvl_cdip_sample/test_97.pdf,form,test
+test_98.pdf,rvl_cdip_sample/test_98.pdf,resume,test
+test_99.pdf,rvl_cdip_sample/test_99.pdf,scientific publication,test
+test_100.pdf,rvl_cdip_sample/test_100.pdf,letter,test
+test_101.pdf,rvl_cdip_sample/test_101.pdf,presentation,test
+test_102.pdf,rvl_cdip_sample/test_102.pdf,advertisement,test
+test_103.pdf,rvl_cdip_sample/test_103.pdf,invoice,test
+test_104.pdf,rvl_cdip_sample/test_104.pdf,scientific publication,test
+test_105.pdf,rvl_cdip_sample/test_105.pdf,form,test
+test_106.pdf,rvl_cdip_sample/test_106.pdf,email,test
+test_107.pdf,rvl_cdip_sample/test_107.pdf,file folder,test
+test_108.pdf,rvl_cdip_sample/test_108.pdf,specification,test
+test_109.pdf,rvl_cdip_sample/test_109.pdf,invoice,test
+test_110.pdf,rvl_cdip_sample/test_110.pdf,form,test
+test_111.pdf,rvl_cdip_sample/test_111.pdf,resume,test
+test_112.pdf,rvl_cdip_sample/test_112.pdf,handwritten,test
+test_113.pdf,rvl_cdip_sample/test_113.pdf,questionnaire,test
+test_114.pdf,rvl_cdip_sample/test_114.pdf,questionnaire,test
+test_115.pdf,rvl_cdip_sample/test_115.pdf,questionnaire,test
+test_116.pdf,rvl_cdip_sample/test_116.pdf,advertisement,test
+test_117.pdf,rvl_cdip_sample/test_117.pdf,file folder,test
+test_118.pdf,rvl_cdip_sample/test_118.pdf,scientific publication,test
+test_119.pdf,rvl_cdip_sample/test_119.pdf,specification,test
+test_120.pdf,rvl_cdip_sample/test_120.pdf,scientific report,test
+test_121.pdf,rvl_cdip_sample/test_121.pdf,form,test
+test_122.pdf,rvl_cdip_sample/test_122.pdf,file folder,test
+test_123.pdf,rvl_cdip_sample/test_123.pdf,letter,test
+test_124.pdf,rvl_cdip_sample/test_124.pdf,scientific publication,test
+test_125.pdf,rvl_cdip_sample/test_125.pdf,specification,test
+test_126.pdf,rvl_cdip_sample/test_126.pdf,presentation,test
+test_127.pdf,rvl_cdip_sample/test_127.pdf,form,test
+test_128.pdf,rvl_cdip_sample/test_128.pdf,letter,test
+test_129.pdf,rvl_cdip_sample/test_129.pdf,specification,test
+test_130.pdf,rvl_cdip_sample/test_130.pdf,presentation,test
+test_131.pdf,rvl_cdip_sample/test_131.pdf,resume,test
+test_132.pdf,rvl_cdip_sample/test_132.pdf,invoice,test
+test_133.pdf,rvl_cdip_sample/test_133.pdf,presentation,test
+test_134.pdf,rvl_cdip_sample/test_134.pdf,presentation,test
+test_135.pdf,rvl_cdip_sample/test_135.pdf,budget,test
+test_136.pdf,rvl_cdip_sample/test_136.pdf,memo,test
+test_137.pdf,rvl_cdip_sample/test_137.pdf,letter,test
+test_138.pdf,rvl_cdip_sample/test_138.pdf,resume,test
+test_139.pdf,rvl_cdip_sample/test_139.pdf,budget,test
+test_140.pdf,rvl_cdip_sample/test_140.pdf,news article,test
+test_141.pdf,rvl_cdip_sample/test_141.pdf,budget,test
+test_142.pdf,rvl_cdip_sample/test_142.pdf,resume,test
+test_143.pdf,rvl_cdip_sample/test_143.pdf,scientific report,test
+test_144.pdf,rvl_cdip_sample/test_144.pdf,advertisement,test
+test_145.pdf,rvl_cdip_sample/test_145.pdf,budget,test
+test_146.pdf,rvl_cdip_sample/test_146.pdf,questionnaire,test
+test_147.pdf,rvl_cdip_sample/test_147.pdf,advertisement,test
+test_148.pdf,rvl_cdip_sample/test_148.pdf,presentation,test
+test_149.pdf,rvl_cdip_sample/test_149.pdf,scientific report,test
+test_150.pdf,rvl_cdip_sample/test_150.pdf,advertisement,test
+test_151.pdf,rvl_cdip_sample/test_151.pdf,specification,test
+test_152.pdf,rvl_cdip_sample/test_152.pdf,memo,test
+test_153.pdf,rvl_cdip_sample/test_153.pdf,scientific report,test
+test_154.pdf,rvl_cdip_sample/test_154.pdf,invoice,test
+test_155.pdf,rvl_cdip_sample/test_155.pdf,news article,test
+test_156.pdf,rvl_cdip_sample/test_156.pdf,budget,test
+test_157.pdf,rvl_cdip_sample/test_157.pdf,memo,test
+test_158.pdf,rvl_cdip_sample/test_158.pdf,advertisement,test
+test_159.pdf,rvl_cdip_sample/test_159.pdf,news article,test
+test_160.pdf,rvl_cdip_sample/test_160.pdf,form,test
+test_161.pdf,rvl_cdip_sample/test_161.pdf,file folder,test
+test_162.pdf,rvl_cdip_sample/test_162.pdf,form,test
+test_163.pdf,rvl_cdip_sample/test_163.pdf,budget,test
+test_164.pdf,rvl_cdip_sample/test_164.pdf,file folder,test
+test_165.pdf,rvl_cdip_sample/test_165.pdf,memo,test
+test_166.pdf,rvl_cdip_sample/test_166.pdf,questionnaire,test
+test_167.pdf,rvl_cdip_sample/test_167.pdf,specification,test
+test_168.pdf,rvl_cdip_sample/test_168.pdf,form,test
+test_169.pdf,rvl_cdip_sample/test_169.pdf,email,test
+test_170.pdf,rvl_cdip_sample/test_170.pdf,letter,test
+test_171.pdf,rvl_cdip_sample/test_171.pdf,scientific report,test
+test_172.pdf,rvl_cdip_sample/test_172.pdf,questionnaire,test
+test_173.pdf,rvl_cdip_sample/test_173.pdf,budget,test
+test_174.pdf,rvl_cdip_sample/test_174.pdf,resume,test
+test_175.pdf,rvl_cdip_sample/test_175.pdf,questionnaire,test
+test_176.pdf,rvl_cdip_sample/test_176.pdf,specification,test
+test_177.pdf,rvl_cdip_sample/test_177.pdf,memo,test
+test_178.pdf,rvl_cdip_sample/test_178.pdf,scientific publication,test
+test_179.pdf,rvl_cdip_sample/test_179.pdf,presentation,test
+test_180.pdf,rvl_cdip_sample/test_180.pdf,scientific report,test
+test_181.pdf,rvl_cdip_sample/test_181.pdf,file folder,test
+test_182.pdf,rvl_cdip_sample/test_182.pdf,form,test
+test_183.pdf,rvl_cdip_sample/test_183.pdf,scientific report,test
+test_184.pdf,rvl_cdip_sample/test_184.pdf,handwritten,test
+test_185.pdf,rvl_cdip_sample/test_185.pdf,file folder,test
+test_186.pdf,rvl_cdip_sample/test_186.pdf,handwritten,test
+test_187.pdf,rvl_cdip_sample/test_187.pdf,memo,test
+test_188.pdf,rvl_cdip_sample/test_188.pdf,file folder,test
+test_189.pdf,rvl_cdip_sample/test_189.pdf,news article,test
+test_190.pdf,rvl_cdip_sample/test_190.pdf,specification,test
+test_191.pdf,rvl_cdip_sample/test_191.pdf,presentation,test
+test_192.pdf,rvl_cdip_sample/test_192.pdf,budget,test
+test_193.pdf,rvl_cdip_sample/test_193.pdf,file folder,test
+test_194.pdf,rvl_cdip_sample/test_194.pdf,resume,test
+test_195.pdf,rvl_cdip_sample/test_195.pdf,budget,test
+test_196.pdf,rvl_cdip_sample/test_196.pdf,specification,test
+test_197.pdf,rvl_cdip_sample/test_197.pdf,memo,test
+test_198.pdf,rvl_cdip_sample/test_198.pdf,invoice,test
+test_199.pdf,rvl_cdip_sample/test_199.pdf,memo,test
+test_200.pdf,rvl_cdip_sample/test_200.pdf,questionnaire,test
+test_201.pdf,rvl_cdip_sample/test_201.pdf,memo,test
+test_202.pdf,rvl_cdip_sample/test_202.pdf,scientific report,test
+test_203.pdf,rvl_cdip_sample/test_203.pdf,invoice,test
+test_204.pdf,rvl_cdip_sample/test_204.pdf,scientific publication,test
+test_205.pdf,rvl_cdip_sample/test_205.pdf,email,test
+test_206.pdf,rvl_cdip_sample/test_206.pdf,budget,test
+test_207.pdf,rvl_cdip_sample/test_207.pdf,advertisement,test
+test_208.pdf,rvl_cdip_sample/test_208.pdf,scientific report,test
+test_209.pdf,rvl_cdip_sample/test_209.pdf,news article,test
+test_210.pdf,rvl_cdip_sample/test_210.pdf,memo,test
+test_211.pdf,rvl_cdip_sample/test_211.pdf,file folder,test
+test_212.pdf,rvl_cdip_sample/test_212.pdf,budget,test
+test_213.pdf,rvl_cdip_sample/test_213.pdf,file folder,test
+test_214.pdf,rvl_cdip_sample/test_214.pdf,advertisement,test
+test_215.pdf,rvl_cdip_sample/test_215.pdf,invoice,test
+test_216.pdf,rvl_cdip_sample/test_216.pdf,scientific publication,test
+test_217.pdf,rvl_cdip_sample/test_217.pdf,email,test
+test_218.pdf,rvl_cdip_sample/test_218.pdf,form,test
+test_219.pdf,rvl_cdip_sample/test_219.pdf,scientific report,test
+test_220.pdf,rvl_cdip_sample/test_220.pdf,presentation,test
+test_221.pdf,rvl_cdip_sample/test_221.pdf,resume,test
+test_222.pdf,rvl_cdip_sample/test_222.pdf,budget,test
+test_223.pdf,rvl_cdip_sample/test_223.pdf,email,test
+test_224.pdf,rvl_cdip_sample/test_224.pdf,email,test
+test_225.pdf,rvl_cdip_sample/test_225.pdf,news article,test
+test_226.pdf,rvl_cdip_sample/test_226.pdf,questionnaire,test
+test_227.pdf,rvl_cdip_sample/test_227.pdf,invoice,test
+test_228.pdf,rvl_cdip_sample/test_228.pdf,handwritten,test
+test_229.pdf,rvl_cdip_sample/test_229.pdf,scientific publication,test
+test_230.pdf,rvl_cdip_sample/test_230.pdf,scientific report,test
+test_231.pdf,rvl_cdip_sample/test_231.pdf,scientific report,test
+test_232.pdf,rvl_cdip_sample/test_232.pdf,presentation,test
+test_233.pdf,rvl_cdip_sample/test_233.pdf,specification,test
+test_234.pdf,rvl_cdip_sample/test_234.pdf,budget,test
+test_235.pdf,rvl_cdip_sample/test_235.pdf,scientific report,test
+test_236.pdf,rvl_cdip_sample/test_236.pdf,file folder,test
+test_237.pdf,rvl_cdip_sample/test_237.pdf,scientific report,test
+test_238.pdf,rvl_cdip_sample/test_238.pdf,memo,test
+test_239.pdf,rvl_cdip_sample/test_239.pdf,presentation,test
+test_240.pdf,rvl_cdip_sample/test_240.pdf,invoice,test
+test_241.pdf,rvl_cdip_sample/test_241.pdf,handwritten,test
+test_242.pdf,rvl_cdip_sample/test_242.pdf,handwritten,test
+test_243.pdf,rvl_cdip_sample/test_243.pdf,letter,test
+test_244.pdf,rvl_cdip_sample/test_244.pdf,invoice,test
+test_245.pdf,rvl_cdip_sample/test_245.pdf,questionnaire,test
+test_246.pdf,rvl_cdip_sample/test_246.pdf,email,test
+test_247.pdf,rvl_cdip_sample/test_247.pdf,resume,test
+test_248.pdf,rvl_cdip_sample/test_248.pdf,form,test
+test_249.pdf,rvl_cdip_sample/test_249.pdf,memo,test
